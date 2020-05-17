@@ -1,0 +1,64 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 17 mai 2020, 13:55:19
+    Author     : Nehemie David
+*/
+
+
+.imageslogo1{
+    width: 100px;
+    height: 100px;
+    margin-right: 10px;
+}
+
+.imageslogo2 {
+    width: 100px;
+    height: 100px;
+}
+
+div.card{
+    text-align: center;
+}
+
+footer {
+    display: flex; /* Ce conteneur est "flexible" */
+    justify-content: center; /* Les éléments portés sont centrés à l'horizontal */
+    align-items: center; /* Les éléments portés sont centrés à la verticale */
+    position: fixed; /* Le conteneur est fixé en fonction de ses coordonnées (à 0px du bas) */
+    bottom: 0px; /* Bas */
+    height: 35px; /* Hauteur */
+    width: 100%; /* Le pied de page occupe toute la largeur */ 
+    background-color:#2d2d2d; /* Couleur de fond */
+    color: #bbb; /* Couleur du texte */
+    text-align:center; /* Texte centré */
+}
+
+footer p {
+    font-size: large; /* Le texte est grossi en L */
+    margin-top: 20px;
+}
+.carousel-control-prev-icon{
+        background-color: black;
+
+}
+.carousel-control-next-icon {
+    
+    background-color: black;
+    
+}
+
+#border {
+    margin-bottom: 20px;
+}
+
+
+
+.carousel-indicators li {
+    border: 2px dotted;
+    border: black;
+    background-color: black;
+}
