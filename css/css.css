@@ -21,9 +21,27 @@ and open the template in the editor.
 }
 
 img.card-img-top{
-    width: 180px;   
+    width: 100%;   
     height: 180px;
-        align-content: center;
+ text-align: center;
+}
+div.card{
+    text-align: center;
+}
 
-    
+footer {
+    display: flex; /* Ce conteneur est "flexible" */
+    justify-content: center; /* Les éléments portés sont centrés à l'horizontal */
+    align-items: center; /* Les éléments portés sont centrés à la verticale */
+    position: fixed; /* Le conteneur est fixé en fonction de ses coordonnées (à 0px du bas) */
+    bottom: 0px; /* Bas */
+    height: 35px; /* Hauteur */
+    width: 100%; /* Le pied de page occupe toute la largeur */ 
+    background-color:#2d2d2d; /* Couleur de fond */
+    color: #bbb; /* Couleur du texte */
+    text-align:center; /* Texte centré */
+}
+
+footer p {
+    font-size: large; /* Le texte est grossi en L */
 }
