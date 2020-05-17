@@ -44,4 +44,26 @@ footer {
 
 footer p {
     font-size: large; /* Le texte est grossi en L */
+    margin-top: 20px;
+}
+.carousel-control-prev-icon{
+        background-color: black;
+
+}
+.carousel-control-next-icon {
+    
+    background-color: black;
+    
+}
+
+#border {
+    margin-bottom: 20px;
+}
+
+
+
+.carousel-indicators li {
+    border: 2px dotted;
+    border: black;
+    background-color: black;
 }
