@@ -1,0 +1,29 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 17 mai 2020, 13:55:19
+    Author     : Nehemie David
+*/
+
+
+.imageslogo1{
+    width: 100px;
+    height: 100px;
+    margin-right: 10px;
+}
+
+.imageslogo2 {
+    width: 100px;
+    height: 100px;
+}
+
+img.card-img-top{
+    width: 180px;   
+    height: 180px;
+        align-content: center;
+
+    
+}
