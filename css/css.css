@@ -9,23 +9,26 @@ Fichier CSS pour la mise en pages utilisé dans toutes les pages.
 
 
 .imageslogo1{
-    width: 200px;
-    height: 200px;
+    width: 250px!important;   /*propriétés de l'image de gauche*/
+    height: 250px!important;
     margin-right: 45px;
 }
 
-.imageslogo2 {
-    width: 200px;
-    height: 200px;
+.imageslogo2 {          /*propriétés de l'image de droite*/
+    width: 200px!important;
+    height: 200px!important;
 }
 
-img.card-img-top{
+img.card-img-top{      /*propriétés des images affichées dans le site*/
     width: 100%;   
     height: 180px;
- text-align: center;
-}
-div.card{
     text-align: center;
+    
+}
+
+
+div .card-group {
+    align-content: center;
 }
 
 footer {
@@ -65,4 +68,22 @@ footer p {
     border: 2px dotted;
     border: black;
     background-color: black;
+}
+
+#sous-titre {
+    text-align: center;
+    color: white;
+    background-color: #112;
+    margin-bottom: 0px !important;
+    font-size: 35px;
+    border: 1rem solid;
+    border-color: #112;
+    text-decoration: underline;
+}
+
+#menuprincipal {
+    background-color: #09C !important;
+}
+#bandeaux {
+    background-color: #0B5 !important;
 }
