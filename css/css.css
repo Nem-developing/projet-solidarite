@@ -9,22 +9,26 @@ Fichier CSS pour la mise en pages utilisé dans toutes les pages.
 
 
 .imageslogo1{
-    width: 250px!important;   /*propriétés de l'image de gauche*/
-    height: 250px!important;
-    margin-right: 45px;
+    width: 40px;   /*propriétés de l'image de gauche*/
+    height: auto;
+    text-align: left;
 }
 
 .imageslogo2 {          /*propriétés de l'image de droite*/
-    width: 200px!important;
-    height: 200px!important;
+    width: 40px;
+    height: auto;
+    text-align: right;
 }
 
 img.card-img-top{      /*propriétés des images affichées dans le site*/
     width: 100%;   
     height: 180px;
     text-align: center;
+    border-radius: 5px;
     
 }
+
+
 
 
 div .card-group {
@@ -49,7 +53,7 @@ footer p {
     margin-top: 20px;
 }
 .carousel-control-prev-icon{
-        background-color: black;
+    background-color: black;
 
 }
 .carousel-control-next-icon {
@@ -82,8 +86,146 @@ footer p {
 }
 
 #menuprincipal {
-    background-color: #09C !important;
+    background: #BDBDBD !important;
+    background-position: top;
+    padding: 15px;
+    margin-left: 100px;
+    margin-right: 100px;
+    margin-top: 18px;
+    margin-bottom: 18px;
+    padding-left: 80px;
+    padding-right: 80px;
+    color: #dbdbdb;
+    border-radius: 4px;
 }
 #bandeaux {
-    background-color: #0B5 !important;
+    background-color: #16A085 !important;
+    background-position: center;
+    padding-top: 150px; 
+    padding-bottom: 150px;
+    margin-bottom: 40px;
+}
+
+#bandeaux-bottom {
+    background-color: rgba(28, 40, 51, 0.8);
+    background-position: bottom;
+    background-position: center;
+    padding-bottom: 20px;
+    padding-left: 50px;
+    padding-right: 50px;
+    opacity: 0.8;
+}
+
+.brm-headerTop {
+  height: 70px;
+  position: absolute;
+  left: 0;
+  right: 0;
+  top: 0;
+  background: rgba(0, 0, 0, 0.1);
+  box-shadow: 0 -1px 3px rgba(0, 0, 0, 0.1);
+  border-top: 1px solid #66666621;
+}
+
+.brm-headerBottom {
+  height: 70px;
+  position: absolute;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background: rgba(0, 0, 0, 0.1);
+  box-shadow: 0 -1px 3px rgba(0, 0, 0, 0.1);
+  border-top: 1px solid #66666621;
+}
+
+a.link {
+    position: relative;
+    padding: 1rem 0 0.5rem;
+    margin: 0 1.5rem;
+    color: white;
+    text-decoration: none;   
+}
+
+.a-img-txt{
+  display:grid; 
+}
+ 
+/* les enfants se superposent */
+.a-img-txt>*{
+  grid-area:1/1/-1/-1; 
+  /* raccourci pour grid-row et grid-column */
+}
+ 
+/* le texte */
+.a-txt{
+  display:flex;
+  justify-content:center;
+  align-items:center;
+  color:#fff;
+  opacity:0;
+  text-align:center; /* Texte centré */
+  transition:opacity .6s;
+}
+ 
+/* les couleurs c1 */
+.c1{
+    background:#000000; /* avec alpha */
+}
+ 
+/* le survol */
+.a-txt:hover{
+  opacity:0.8;
+  border-radius: 5px;
+}
+ 
+/* la déco */
+body {
+    background: url(../logo/fond4.png) no-repeat white; /*#0F0F0F*/
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+.fond{
+    background-color: rgba(28, 40, 51, 0.8);
+    box-sizing: border-box;
+    height: 78vh;
+    padding: 24px;
+    padding-top: 34px;
+    padding-right: 24px;
+    padding-bottom: 24px;
+    padding-left: 24px;
+    border-radius: 5px;
+    margin-bottom: 70px;
+}
+
+.col{
+    margin-bottom: 60px;
+}
+ 
+img{
+  max-width:100%;
+  height:auto;
+}
+
+a{
+  text-decoration:none;
+}
+
+
+.col{
+    border-radius: 5px;
+}
+
+h5{
+    color: #fff;
+    text-align:center;
+    font-size: 50px;
+}
+
+h3{
+    text-align: center;
+    margin-right: 50px;
+    font-size: 40px;
+    margin-left: 70px;
+    margin-right: 70px;
 }
