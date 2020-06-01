@@ -15,6 +15,10 @@
     </head>
     <body>
 
+        <! -- Bandeau de page dynamique. -->
+        <?php
+          include '../includes/header.html';
+        ?>
         
         <! -- Fil d'Ariane -->
         <nav aria-label="breadcrumb">
