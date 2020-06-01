@@ -15,70 +15,7 @@
     </head>
     <body>
 
-        <! -- Menu -->
-        <nav class="navbar navbar-expand-lg navbar-light bg-light">
-            <img src="../logo/logo-1.png" class="imageslogo1">
-            <a class="navbar-brand" href="../index.html">Bonaparte solidaire de nos héros du quotidien !</a>
-            <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
-                <span class="navbar-toggler-icon"></span>
-            </button>
-            <div class="collapse navbar-collapse" id="navbarNav">
-                <ul class="navbar-nav">
-                    <li class="nav-item active">
-                        <a class="nav-link" href="../index.html">Accueil <span class="sr-only">(current)</span></a>
-                    </li>
-
-
-
-                    <li class="nav-item dropdown">
-                        <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuLink" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-                            Productions
-                        </a>
-                        <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
-                            <a class="dropdown-item" href="../index.html">Bonaparte solidaire de nos héros du quotidient !</a>
-                            <a class="dropdown-item" href="eleves.html">Productions des élèves</a>
-                            <a class="dropdown-item" href="familles.html">Productions des familles</a>
-                            <a class="dropdown-item" href="personnels.html">Productions des personnels du Lycée</a>
-                            <a class="dropdown-item" href="poesie.html">Moments de poésie</a>
-                            <a class="dropdown-item" href="Remerciements des Héros du quotidien.html">Remerciements des Héros du quotidien</a>
-                            <a class="dropdown-item" href="Les Vidéos.html">Les Vidéos</a>
-                            <a class="dropdown-item" href="Ils vous soutiennent.html">Ils vous soutiennent</a>
-                            <a class="dropdown-item" href="Projet fabriquons des masques - Vie Scolaire.html">Projet fabriquons des masques - Vie Scolaire</a>
-                            <a class="dropdown-item" href="actions.html">Les actions solidaires</a>
-                            <a class="dropdown-item" href="bonus.html">Les Bonus du BTS Communication</a>
-                            <a class="dropdown-item" href="reseau.html">Le Réseau Bonaparte</a> 
-                            <a class="dropdown-item" href="communication.html">Retours de Presse et communication</a>
-                        </div>
-                    </li>
-
-
-                    <li class="nav-item dropdown">
-                        <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuLink" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-                            Actions
-                        </a>
-                        <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
-                            <a class="dropdown-item" href="#">Projet fabriquons des masques - Vie Scolaire</a>
-                            <a class="dropdown-item" href="actions.html">Les actions solidaires</a>
-                            <a class="dropdown-item" href="reseau.html">Le Réseau Bonaparte</a>
-                        </div>
-                    </li>
-
-
-                    <li class="nav-item dropdown">
-                        <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuLink" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-                            Autre
-                        </a>
-                        <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
-                            <a class="dropdown-item" href="#">Retours de Presse et communication</a>
-                            <a class="dropdown-item" href="bonus.html">Les Bonus du BTS Communication</a>
-                        </div>
-                    </li>
-
-
-                </ul>
-            </div>
-            <img src="../logo/logo2.png" class="imageslogo2">
-        </nav>
+        
 
         <! -- Fil d'Ariane -->
         <nav aria-label="breadcrumb">
