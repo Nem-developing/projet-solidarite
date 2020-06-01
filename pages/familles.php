@@ -15,7 +15,7 @@
     </head>
     <body>
 
-        ! -- Bandeau de page dynamique. -->
+        <! -- Bandeau de page dynamique. -->
         <?php
           include '../includes/header.html';
         ?>
