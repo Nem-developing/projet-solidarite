@@ -15,7 +15,10 @@
     </head>
     <body>
 
-        
+        <! -- Bandeau de page dynamique. -->
+        <?php
+          include '../includes/header.html';
+        ?>
         
         <! -- Caroussel (Slide Show) -->
          
