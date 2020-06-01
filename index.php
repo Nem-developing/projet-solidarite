@@ -18,6 +18,7 @@
         <! -- Bandeau de page dynamique. -->
         <?php
           include 'includes/header.html';
+          echo "CECI EST UN TEST";
         ?>
         
         
