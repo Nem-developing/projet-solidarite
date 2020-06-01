@@ -14,7 +14,11 @@
         <link href="../css/css.css" rel="stylesheet" type="text/css"/>
     </head>
     <body>
-
+        
+        <! -- Bandeau de page dynamique. -->
+        <?php
+          include '../includes/header.html';
+        ?>
        
 
         <! -- Fil d'Ariane -->
