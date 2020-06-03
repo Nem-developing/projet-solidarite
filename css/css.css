@@ -229,3 +229,27 @@ h3{
     margin-left: 70px;
     margin-right: 70px;
 }
+
+.carousel-item {
+    width: 100%;
+    height:auto;
+}
+
+.carousel-inner{
+    margin-bottom: 40px;
+}
+
+/* Paramètre de la Page Bonus */
+
+.bonus{
+    height: 103vh !important;
+}
+
+/* les couleurs c1 */
+.cb{
+    background:#4D5656; /* avec alpha */
+}
+
+.carousel-inner{
+    size: 100px;
+}
