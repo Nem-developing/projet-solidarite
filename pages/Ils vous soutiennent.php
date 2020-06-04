@@ -70,6 +70,7 @@
         
                 
         <! -- Affichage des images -->
+        <div class="container fond" id="full-back">
         <div class="card-group">
             <div class="card">
                 <img src="./../images/Soutients/Jean Charles Orioli.jpg" class="card-img-top" alt="Image de soutien de : Jean Charles Orioli.">
@@ -97,7 +98,7 @@
                 <img src="../images/Soutients/Virgile Bruni.jpg" class="card-img-top" alt="Image de soutien de : Virgile Bruni.">
             </div>
         </div>
-
+        </div>
         
 
         <div id="border">
