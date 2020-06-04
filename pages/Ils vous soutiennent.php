@@ -85,12 +85,19 @@
             <div class="card">
                 <img src="./../images/Soutients/Mathieu Bastereaud.jpg" class="card-img-top" alt="...">
             </div>
+        </div>
+        <div class="card-group">
+
+
             <div class="card">
                 <img src="./../images/Soutients/Maxime Mermoz.jpg" class="card-img-top" alt="...">
             </div>
             <div class="card">
                 <img src="./../images/Soutients/Renaud Muselier - Président de la Région Sud.jpg" class="card-img-top" alt="...">
             </div>
+        </div>
+        <div class="card-group">
+
             <div class="card">
                 <img src="../images/Soutients/Steffon Armitage.jpg" class="card-img-top" alt="...">
             </div>
