@@ -20,7 +20,7 @@ Fichier CSS pour la mise en pages utilisé dans toutes les pages.
     text-align: right;
 }
 
-img.card-img-top{      /*propriétés des images affichées dans le site*/
+img .card-img-top{      /*propriétés des images affichées dans le site*/
     text-align: center;
     height: auto;
     padding-left: 10px;
