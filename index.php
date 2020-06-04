@@ -26,28 +26,28 @@
         <div class="container fond">
             <div class="row image1">
                 <div class="col">
-                    <a class="a-img-txt" href="pages/bonus.html">
+                    <a class="a-img-txt" href="pages/bonus.php">
                         <img src="logo/familles.jpg" class="card-img-top" alt="...">
                         <span class="a-txt c1">Productions des familles</span>
                     </a>
                 </div>
 
                 <div class="col">
-                    <a class="a-img-txt" href="pages/poesies.html">
+                    <a class="a-img-txt" href="pages/poesies.php">
                         <img src="logo/poesie.jpg" class="card-img-top" alt="...">
                         <span class="a-txt c1">Moments de poésie</span>
                     </a>
                 </div>
 
                 <div class="col">
-                    <a class="a-img-txt" href="pages/Remerciements des Héros du quotidien.html">
+                    <a class="a-img-txt" href="pages/Remerciements des Héros du quotidien.php">
                         <img src="logo/rem_heros.jpg" class="card-img-top" alt="...">
                         <span class="a-txt c1">Remerciements des Héros du quotidien</span>
                     </a>
                 </div>
 
                 <div class="col">
-                    <a class="a-img-txt" href="pages/Les Vidéos.html">
+                    <a class="a-img-txt" href="pages/Les Vidéos.php">
                         <img src="logo/videos.PNG" class="card-img-top" alt="...">
                         <span class="a-txt c1">Les Vidéos</span>
                     </a>
@@ -57,28 +57,28 @@
 
             <div class="row image1">
                 <div class="col">
-                    <a class="a-img-txt" href="pages/Ils vous soutiennent.html">
+                    <a class="a-img-txt" href="pages/Ils vous soutiennent.php">
                         <img src="logo/Ils_vous_soutiennent.PNG" class="card-img-top" alt="...">
                         <span class="a-txt c1">Ils vous soutiennent</span>
                     </a>
                 </div>
 
                 <div class="col">
-                    <a class="a-img-txt" href="pages/Projet fabriquons des masques - Vie Scolaire.html">
+                    <a class="a-img-txt" href="pages/Projet fabriquons des masques - Vie Scolaire.php">
                         <img src="logo/projet_masques.jpg" class="card-img-top" alt="...">
                         <span class="a-txt c1">Projet fabriquons des masques - Vie Scolaire</span>
                     </a>
                 </div>
 
                 <div class="col">
-                    <a class="a-img-txt" href="pages/actions.html">
+                    <a class="a-img-txt" href="pages/actions.php">
                         <img src="logo/solidaires.jpg" class="card-img-top" alt="...">
                         <span class="a-txt c1">Les actions solidaires</span>
                     </a>
                 </div>
 
                 <div class="col">
-                    <a class="a-img-txt" href="pages/eleves.html">
+                    <a class="a-img-txt" href="pages/eleves.php">
                         <img src="logo/eleves.jpg" class="card-img-top" alt="...">
                         <span class="a-txt c1">Productions des élèves</span>
                     </a>
@@ -88,28 +88,28 @@
 
             <div class="row image1">
                 <div class="col">
-                    <a class="a-img-txt" href="pages/personnels.html">
+                    <a class="a-img-txt" href="pages/personnels.php">
                         <img src="logo/Personnels.jpg" class="card-img-top" alt="...">
                         <span class="a-txt c1">Productions des personnels du lycée</span>
                     </a>
                 </div>
 
                 <div class="col">
-                    <a class="a-img-txt" href="pages/reseau.html">
+                    <a class="a-img-txt" href="pages/reseau.php">
                         <img src="logo/reseau_bona.jpg" class="card-img-top" alt="...">
                         <span class="a-txt c1">Le Réseau Bonaparte</span>
                     </a>
                 </div>
 
                 <div class="col">
-                    <a class="a-img-txt" href="pages/communication.html">
+                    <a class="a-img-txt" href="pages/communication.php">
                         <img src="logo/presse.jpg" class="card-img-top" alt="...">
                         <span class="a-txt c1">Retours de Presse et communication</span>
                     </a>
                 </div>
 
                 <div class="col">
-                    <a class="a-img-txt" href="pages/bonus.html">
+                    <a class="a-img-txt" href="pages/bonus.php">
                         <img src="logo/Bonus.jpg" class="card-img-top" alt="...">
                         <span class="a-txt c1">Les Bonus du BTS Communication</span>
                     </a>
