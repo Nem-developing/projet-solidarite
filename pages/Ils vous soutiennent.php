@@ -64,7 +64,7 @@
                     <img src="../images/Soutients/Renaud Muselier - Président de la Région Sud.jpg" class="d-block w-10" alt="...">
                 </div>
                 <div class="carousel-item">
-                    <img src="../images/Soutients/Stepffon Armitage.jpg" class="d-block w-10" alt="...">
+                    <img src="../images/Soutients/Steffon Armitage.jpg" class="d-block w-10" alt="...">
                 </div>
                 <div class="carousel-item">
                     <img src="../images/Soutients/Virgile Bruni.jpg" class="d-block w-10" alt="...">
@@ -101,14 +101,8 @@
                 <img src="./../images/Soutients/Renaud Muselier - Président de la Région Sud.jpg" class="card-img-top" alt="...">
             </div>
             <div class="card">
-                <img src="../images/Soutients/Stepffon Armitage.jpg" class="card-img-top" alt="...">
+                <img src="../images/Soutients/Steffon Armitage.jpg" class="card-img-top" alt="...">
             </div>
-            <div class="card">
-                <img src="../images/Soutients/Virgile Bruni.jpg" class="card-img-top" alt="...">
-            </div>
-        </div>
-        
-        <div class="card-group">
             <div class="card">
                 <img src="../images/Soutients/Virgile Bruni.jpg" class="card-img-top" alt="...">
             </div>
