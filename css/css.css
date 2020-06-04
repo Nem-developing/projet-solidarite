@@ -80,7 +80,7 @@ footer p {                                      /*    Modification du paragraphe
     color: #dbdbdb;
     border-radius: 4px;
 }
-#bandeaux {                                    /* Colorisation de l'accroche du site.*/
+#bandeaux {                                    /*   Colorisation de l'accroche du site.      */
     background-color: #16A085 !important;
     background-position: center;
     padding-top: 150px; 
@@ -88,7 +88,7 @@ footer p {                                      /*    Modification du paragraphe
     margin-bottom: 40px;
 }
 
-#bandeaux-bottom {
+#bandeaux-bottom {                                 /*   Colorisation de l'affichage du titre du site.  */
     background-color: rgba(28, 40, 51, 0.8);
     background-position: bottom;
     background-position: center;
@@ -100,7 +100,7 @@ footer p {                                      /*    Modification du paragraphe
     height:auto;
 }
 
-.brm-headerTop {
+.brm-headerTop {                    /*      Colorination de la barre de navigation (ou menu principal).    */
   height: 70px;
   position: absolute;
   left: 0;
@@ -111,7 +111,7 @@ footer p {                                      /*    Modification du paragraphe
   border-top: 1px solid #66666621;
 }
 
-.brm-headerBottom {
+.brm-headerBottom {                           /*   Colorisation de l'affichage du titre du site.  */
   height: 70px;
   position: absolute;
   left: 0;
@@ -122,7 +122,7 @@ footer p {                                      /*    Modification du paragraphe
   border-top: 1px solid #66666621;
 }
 
-a.link {
+a.link {                                    /*     Changment de l'aparence des liens sur le site.    */
     position: relative;
     padding: 1rem 0 0.5rem;
     margin: 0 1.5rem;
@@ -130,17 +130,17 @@ a.link {
     text-decoration: none;   
 }
 
-.a-img-txt{
+.a-img-txt{                                /*     Changment de l'aparence des images de la page d'acceuil.    */
   display:grid; 
 }
  
 /* les enfants se superposent */
-.a-img-txt>*{
+.a-img-txt>*{                               /*     Changment de l'aparence des images de la page d'acceuil.    */
   grid-area:1/1/-1/-1; 
   /* raccourci pour grid-row et grid-column */
 }
  
-/* le texte */
+                                           /*     Transparence du texte superposé aux images (Par défaut).    */
 .a-txt{
   display:flex;
   justify-content:center;
@@ -151,25 +151,23 @@ a.link {
   transition:opacity .6s;
 }
  
-/* les couleurs c1 */
-.c1{
+.c1{                                        /*     Changement de la couleur du texte superposé aux images. */
     background:#000000; /* avec alpha */
 }
  
-/* le survol */
-.a-txt:hover{
+.a-txt:hover{                           /*     Affichage du texte superposé aux images (Au survol).    */
   opacity:0.8;
   border-radius: 5px;
 }
  
-/* la déco */
+                                        /*    Décoration d'arière plan.    */
 body {
     background: url(../logo/fond4.png) no-repeat white; /*#0F0F0F*/
     background-size: cover;
     background-attachment: fixed;
 }
 
-.fond{
+.fond{                                      /*    Décorations de la division parente aux images des pages.     */
     background-color: rgba(28, 40, 51, 0.8);
     box-sizing: border-box;
     height: 78vh;
@@ -182,31 +180,28 @@ body {
     margin-bottom: 70px;
 }
 
-.col{
+.col{                                       /*    Réalisation d'un espacement entre les images du menu.     */          
     margin-bottom: 60px;
+    border-radius: 5px;
 }
  
-img{
+img{                                        /*    Desciption de la taile des images sur le site.     */    
   max-width:100%;
   height:auto;
 }
 
-a{
+a{                                          /*    Supresion de la couleur bleu des liens.     */    
   text-decoration:none;
 }
 
 
-.col{
-    border-radius: 5px;
-}
-
-h5{
+h5{                                         /*    Changement colorisation des titres de niveau 5.     */    
     color: #fff;
     text-align:center;
     font-size: 50px;
 }
 
-h3{
+h3{                                          /*    Changement colorisation des titres de niveau 3.     */
     text-align: center;
     margin-right: 50px;
     font-size: 40px;
@@ -214,24 +209,19 @@ h3{
     margin-right: 70px;
 }
 
-.carousel-item {
+.carousel-item {                             /*     Définition des tailles des images présentes dans le caroussel.            */
     width: 100%;
     height:auto;
 }
 
-.carousel-inner{
+.carousel-inner{                            /*   Ajout d'un espacement entre la fin du caroussel et le début de l'affichage des images.         */
     margin-bottom: 40px;
 }
 
-/* Paramètre de la Page Bonus */
 
-.bonus{
-    height: 103vh !important;
-}
 
-/* les couleurs c1 */
 .cb{
-    background:#4D5656; /* avec alpha */
+    background:#4D5656; 
 }
 
 .carousel-inner{
