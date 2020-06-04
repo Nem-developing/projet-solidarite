@@ -104,25 +104,25 @@
     <div class="container fond" id="full-back">
         <div class="row image1">
             <div class="col">
-                    <a class="a-img-txt" href="">
+                    <a class="a-img-txt">
                         <img src="./../images/les_bonus_du_bts_communication/Bonus 1.jpg" class="card-img-top" alt="...">
                     </a>
             </div>
         
             <div class="col">
-                    <a class="a-img-txt" href="">
+                    <a class="a-img-txt>
                         <img src="./../images/les_bonus_du_bts_communication/Bonus 2.jpg" class="card-img-top" alt="...">
                     </a>
             </div>
             
             <div class="col">
-                    <a class="a-img-txt" href="">
+                    <a class="a-img-txt">
                         <img src="./../images/les_bonus_du_bts_communication/Bonus 3.jpg" class="card-img-top" alt="...">
                     </a>
             </div>
             
             <div class="col">
-                <a class="a-img-txt" href="">
+                <a class="a-img-txt">
                     <img src="./../images/les_bonus_du_bts_communication/Bonus 4.jpg" class="card-img-top" alt="...">
                 </a>
             </div>
@@ -131,25 +131,25 @@
         
         <div class="row image1">
             <div class="col">
-                    <a class="a-img-txt" href="">
+                    <a class="a-img-txt">
                         <img src="./../images/les_bonus_du_bts_communication/Bonus 5.jpg" class="card-img-top" alt="...">
                     </a>
             </div>
         
             <div class="col">
-                    <a class="a-img-txt" href="">
+                    <a class="a-img-txt">
                         <img src="./../images/les_bonus_du_bts_communication/Bonus 6.jpg" class="card-img-top" alt="...">
                     </a>
             </div>
             
             <div class="col">
-                    <a class="a-img-txt" href="">
+                    <a class="a-img-txt">
                         <img src="./../images/les_bonus_du_bts_communication/Bonus 7.jpg" class="card-img-top" alt="...">
                     </a>
             </div>
             
             <div class="col">
-                <a class="a-img-txt" href="">
+                <a class="a-img-txt">
                     <img src="./../images/les_bonus_du_bts_communication/Bonus 8.jpg" class="card-img-top" alt="...">
                 </a>
             </div>
@@ -158,25 +158,25 @@
         
         <div class="row image1">
             <div class="col">
-                    <a class="a-img-txt" href="">
+                    <a class="a-img-txt">
                         <img src="./../images/les_bonus_du_bts_communication/Bonus 9.jpg" class="card-img-top" alt="...">
                     </a>
             </div>
         
             <div class="col">
-                    <a class="a-img-txt" href="">
+                    <a class="a-img-txt">
                         <img src="./../images/les_bonus_du_bts_communication/Bonus 10.jpg" class="card-img-top" alt="...">
                     </a>
             </div>
             
             <div class="col">
-                    <a class="a-img-txt" href="">
+                    <a class="a-img-txt">
                         <img src="./../images/les_bonus_du_bts_communication/Bonus 11.jpg" class="card-img-top" alt="...">
                     </a>
             </div>
             
             <div class="col">
-                <a class="a-img-txt" href="">
+                <a class="a-img-txt">
                     <img src="./../images/les_bonus_du_bts_communication/Bonus 12.jpg" class="card-img-top" alt="...">
                 </a>
             </div>
@@ -184,7 +184,7 @@
         
         <div class="row image1">
             <div class="col">
-                    <a class="a-img-txt" href="">
+                    <a class="a-img-txt">
                         <img src="./../images/les_bonus_du_bts_communication/Bonus 13.jpg" class="card-img-top" alt="...">
                     </a>
             </div>
