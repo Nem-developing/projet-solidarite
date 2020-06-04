@@ -111,7 +111,7 @@
         
             <div class="col">
                     <a class="a-img-txt>
-                        <img src="./../images/les_bonus_du_bts_communication/Bonus 2.jpg" class="card-img-top" alt="Remerciement réalisé par les élèves du BTS Communication">
+                        <img src="../images/les_bonus_du_bts_communication/Bonus 2.jpg" class="card-img-top" alt="Remerciement réalisé par les élèves du BTS Communication">
                     </a>
             </div>
             
