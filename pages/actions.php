@@ -26,14 +26,14 @@
         <div class="row image1">
             <div class="col">
                     <a class="a-img-txt" href="">
-                        <img src="./../images/les_actions_solidaires/Marc Duran - Proviseur - Participation à la course Tous unis contre le Virus 1.jpg" class="card-img-top" alt="...">
+                        <img src="./../images/les_actions_solidaires/Marc Duran - Proviseur - Participation à la course Tous unis contre le Virus 1.jpg" class="card-img-top" alt="Action de Marc Duran - Proviseur - Participation à la course Tous unis contre le Virus">
                         <span class="a-txt cb"></span>
                     </a>
             </div>
         
             <div class="col">
                 <a class="a-img-txt" href="">
-                    <img src="./../images/les_actions_solidaires/Marc Duran - Proviseur - Participation à la course Tous unis contre le Virus.jpg" class="card-img-top" alt="...">
+                    <img src="./../images/les_actions_solidaires/Marc Duran - Proviseur - Participation à la course Tous unis contre le Virus.jpg" class="card-img-top" alt="Action de Marc Duran - Proviseur - Participation à la course Tous unis contre le Virus">
                     <span class="a-txt cb"></span>
                 </a>
             </div>
