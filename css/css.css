@@ -220,11 +220,6 @@ h3{                                          /*    Changement colorisation des t
 }
 
 
-div#les-vids {
-    text-align: center;
-    flex-wrap: wrap;
-}
-
 #full-back {
     width: 100%;
     height:auto;
