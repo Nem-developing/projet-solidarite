@@ -65,25 +65,25 @@
     <div class="container fond" id="full-back">
         <div class="row image1">
             <div class="col">
-                    <a class="a-img-txt" href="">
+                    <a class="a-img-txt">
                         <img src="../images/le_reseau_bonaparte/Linda Crespo, AESH, Collège Marcel Pagnol.jpg" class="card-img-top" alt="...">
                     </a>
             </div>
         
             <div class="col">
-                    <a class="a-img-txt" href="">
+                    <a class="a-img-txt">
                         <img src="../images/le_reseau_bonaparte/Lobna UPE2A - Claret.jpg" class="card-img-top" alt="...">
                     </a>
             </div>
             
             <div class="col">
-                    <a class="a-img-txt" href="">
+                    <a class="a-img-txt">
                         <img src="../images/le_reseau_bonaparte/Maryam HANAASHMONE UPE2A - Claret.jpg" class="card-img-top" alt="...">
                     </a>
             </div>
             
             <div class="col">
-                <a class="a-img-txt" href="">
+                <a class="a-img-txt">
                     <img src="../images/le_reseau_bonaparte/Rahel Yebio (UPE2A Claret).jpg" class="card-img-top" alt="...">
                 </a>
             </div>
