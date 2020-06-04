@@ -107,16 +107,6 @@
         </div>
         
         
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
         <! -- Affichage des images -->
         <div class="container fond" id="full-back">
         <div class="card-group">
@@ -172,10 +162,6 @@
                 <img src="./../images/familles/Famille Oddoz.jpg" class="card-img-top" alt="Action solidaire des familles">
             </div>
         </div>
-        </div>
-
-
-        <div id="border">
         </div>
 
         <script src="https://code.jquery.com/jquery-3.4.1.slim.min.js" integrity="sha384-J6qa4849blE2+poT4WnyKhv5vZF5SrPo0iEjwBvKU7imGFAV0wwj1yYfoRSJoZ+n" crossorigin="anonymous"></script>
