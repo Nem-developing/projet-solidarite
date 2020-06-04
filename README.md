@@ -5,7 +5,7 @@ Ce projet est réalisé dans le cadre d'un travail de groupe et à but non-lucra
 
 ## Crédits : 
 
-> [Ilan Marrache](https://github.com/IlanMarrache)  
+> [Ilan Marrache](https://github.com/IlanMarrache) ![](https://avatars1.githubusercontent.com/u/65493510?s=460&u=45a03efd5e41d47cbb622ac5dc336bd9328c0e29&v=4)  
 > [Dorian Rastello](https://github.com/Neyrim83)  
 > [Néhémie Barkia](https://github.com/Nem-developing)  
 
