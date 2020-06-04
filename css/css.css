@@ -283,6 +283,10 @@ background-color: rgba(28, 40, 51, 0.8) !important;
 }
 
 
-.card:hover {
+.card:hover { /*Changement du fond quand on passe la sourie devant une division de classe "card"*/
 background-color: gray!important;
+}
+
+.col:hover {    /*Changement du fond quand on passe la sourie devant une division de classe "col"*/
+    background-color: gray!important;
 }
