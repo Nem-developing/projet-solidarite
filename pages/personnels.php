@@ -44,49 +44,49 @@
             <center>
             <div class="carousel-inner">
                 <div class="carousel-item active">
-                    <img src="../images/personnels/Anne Sophie Nassez 1.jpg" class="d-block w-10" alt="...">
+                    <img src="../images/personnels/Anne Sophie Nassez 1.jpg" class="d-block w-10" alt="Action solidaire des personnels du Lycée Bonaparte">
                 </div>
                 <div class="carousel-item">
-                    <img src="../images/personnels/Anne Sophie Nassez.jpg" class="d-block w-10" alt="...">
+                    <img src="../images/personnels/Anne Sophie Nassez.jpg" class="d-block w-10" alt="Action solidaire des personnels du Lycée Bonaparte">
                 </div>
                 <div class="carousel-item">
-                    <img src="../images/personnels/Anonyme 3.jpg" class="d-block w-10" alt="...">
+                    <img src="../images/personnels/Anonyme 3.jpg" class="d-block w-10" alt="Action solidaire des personnels du Lycée Bonaparte">
                 </div>
                 <div class="carousel-item">
-                    <img src="../images/personnels/Benoit Roche.jpg" class="d-block w-10" alt="...">
+                    <img src="../images/personnels/Benoit Roche.jpg" class="d-block w-10" alt="Action solidaire des personnels du Lycée Bonaparte">
                 </div>
                 <div class="carousel-item">
-                    <img src="../images/personnels/Béatrice Vanderpotte.jpg" class="d-block w-10" alt="...">
+                    <img src="../images/personnels/Béatrice Vanderpotte.jpg" class="d-block w-10" alt="Action solidaire des personnels du Lycée Bonaparte">
                 </div>
                 <div class="carousel-item">
-                    <img src="../images/personnels/Carine Meheust.jpg" class="d-block w-10" alt="...">
+                    <img src="../images/personnels/Carine Meheust.jpg" class="d-block w-10" alt="Action solidaire des personnels du Lycée Bonaparte">
                 </div>
                 <div class="carousel-item">
-                    <img src="../images/personnels/Eric Baldoureaux.jpg" class="d-block w-10" alt="...">
+                    <img src="../images/personnels/Eric Baldoureaux.jpg" class="d-block w-10" alt="Action solidaire des personnels du Lycée Bonaparte">
                 </div>
                 <div class="carousel-item">
-                    <img src="../images/personnels/Isabelle Oddoz 1 .jpg" class="d-block w-10" alt="...">
+                    <img src="../images/personnels/Isabelle Oddoz 1 .jpg" class="d-block w-10" alt="Action solidaire des personnels du Lycée Bonaparte">
                 </div>
                 <div class="carousel-item">
-                    <img src="../images/personnels/Isabelle Oddoz.jpg" class="d-block w-10" alt="...">
+                    <img src="../images/personnels/Isabelle Oddoz.jpg" class="d-block w-10" alt="Action solidaire des personnels du Lycée Bonaparte">
                 </div>
                 <div class="carousel-item">
-                    <img src="../images/personnels/José Gil.jpg" class="d-block w-10" alt="...">
+                    <img src="../images/personnels/José Gil.jpg" class="d-block w-10" alt="Action solidaire des personnels du Lycée Bonaparte">
                 </div>
                 <div class="carousel-item">
-                    <img src="../images/personnels/Justine Paganoni.jpg" class="d-block w-10" alt="...">
+                    <img src="../images/personnels/Justine Paganoni.jpg" class="d-block w-10" alt="Action solidaire des personnels du Lycée Bonaparte">
                 </div>
                 <div class="carousel-item">
-                    <img src="../images/personnels/Laure Grandviennot.jpg" class="d-block w-10" alt="...">
+                    <img src="../images/personnels/Laure Grandviennot.jpg" class="d-block w-10" alt="Action solidaire des personnels du Lycée Bonaparte">
                 </div>
                 <div class="carousel-item">
-                    <img src="../images/personnels/Lionel Colin.jpg" class="d-block w-10" alt="...">
+                    <img src="../images/personnels/Lionel Colin.jpg" class="d-block w-10" alt="Action solidaire des personnels du Lycée Bonaparte">
                 </div>
                 <div class="carousel-item">
-                    <img src="../images/personnels/Loïc Mayolle.jpg" class="d-block w-10" alt="...">
+                    <img src="../images/personnels/Loïc Mayolle.jpg" class="d-block w-10" alt="Action solidaire des personnels du Lycée Bonaparte">
                 </div>
                 <div class="carousel-item">
-                    <img src="../images/personnels/Madame Seymandi.jpg" class="d-block w-10" alt="...">
+                    <img src="../images/personnels/Madame Seymandi.jpg" class="d-block w-10" alt="Action solidaire des personnels du Lycée Bonaparte">
                 </div>
 
                 
@@ -111,25 +111,25 @@
         <div class="row image1">
             <div class="col">
                     <a class="a-img-txt" href="">
-                        <img src="./../images/personnels/Anne Sophie Nassez 1.jpg" class="card-img-top" alt="...">
+                        <img src="./../images/personnels/Anne Sophie Nassez 1.jpg" class="card-img-top" alt="Action solidaire des personnels du Lycée Bonaparte">
                     </a>
             </div>
         
             <div class="col">
                     <a class="a-img-txt" href="">
-                        <img src="./../images/personnels/Anne Sophie Nassez.jpg" class="card-img-top" alt="...">
+                        <img src="./../images/personnels/Anne Sophie Nassez.jpg" class="card-img-top" alt="Action solidaire des personnels du Lycée Bonaparte">
                     </a>
             </div>
             
             <div class="col">
                     <a class="a-img-txt" href="">
-                        <img src="./../images/personnels/Anonyme 3.jpg" class="card-img-top" alt="...">
+                        <img src="./../images/personnels/Anonyme 3.jpg" class="card-img-top" alt="Action solidaire des personnels du Lycée Bonaparte">
                     </a>
             </div>
             
             <div class="col">
                 <a class="a-img-txt" href="">
-                    <img src="./../images/personnels/Benoit Roche.jpg" class="card-img-top" alt="...">
+                    <img src="./../images/personnels/Benoit Roche.jpg" class="card-img-top" alt="Action solidaire des personnels du Lycée Bonaparte">
                 </a>
             </div>
         </div>
@@ -138,25 +138,25 @@
         <div class="row image1">
             <div class="col">
                     <a class="a-img-txt" href="">
-                        <img src="./../images/personnels/Béatrice Vanderpotte.jpg" class="card-img-top" alt="...">
+                        <img src="./../images/personnels/Béatrice Vanderpotte.jpg" class="card-img-top" alt="Action solidaire des personnels du Lycée Bonaparte">
                     </a>
             </div>
         
             <div class="col">
                     <a class="a-img-txt" href="">
-                        <img src="./../images/personnels/Carine Meheust.jpg" class="card-img-top" alt="...">
+                        <img src="./../images/personnels/Carine Meheust.jpg" class="card-img-top" alt="Action solidaire des personnels du Lycée Bonaparte">
                     </a>
             </div>
             
             <div class="col">
                     <a class="a-img-txt" href="">
-                        <img src="../images/personnels/Eric Baldoureaux.jpg" class="card-img-top" alt="...">
+                        <img src="../images/personnels/Eric Baldoureaux.jpg" class="card-img-top" alt="Action solidaire des personnels du Lycée Bonaparte">
                     </a>
             </div>
             
             <div class="col">
                 <a class="a-img-txt" href="">
-                    <img src="../images/personnels/Isabelle Oddoz 1 .jpg" class="card-img-top" alt="...">
+                    <img src="../images/personnels/Isabelle Oddoz 1 .jpg" class="card-img-top" alt="Action solidaire des personnels du Lycée Bonaparte">
                 </a>
             </div>
         </div>
@@ -165,25 +165,25 @@
         <div class="row image1">
             <div class="col">
                     <a class="a-img-txt" href="">
-                        <img src="../images/personnels/Isabelle Oddoz.jpg" class="card-img-top" alt="...">
+                        <img src="../images/personnels/Isabelle Oddoz.jpg" class="card-img-top" alt="Action solidaire des personnels du Lycée Bonaparte">
                     </a>
             </div>
         
             <div class="col">
                     <a class="a-img-txt" href="">
-                        <img src="../images/personnels/José Gil.jpg" class="card-img-top" alt="...">
+                        <img src="../images/personnels/José Gil.jpg" class="card-img-top" alt="Action solidaire des personnels du Lycée Bonaparte">
                     </a>
             </div>
             
             <div class="col">
                     <a class="a-img-txt" href="">
-                        <img src="../images/personnels/Justine Paganoni.jpg" class="card-img-top" alt="...">
+                        <img src="../images/personnels/Justine Paganoni.jpg" class="card-img-top" alt="Action solidaire des personnels du Lycée Bonaparte">
                     </a>
             </div>
             
             <div class="col">
                 <a class="a-img-txt" href="">
-                    <img src="../images/personnels/Laure Grandviennot.jpg" class="card-img-top" alt="...">
+                    <img src="../images/personnels/Laure Grandviennot.jpg" class="card-img-top" alt="Action solidaire des personnels du Lycée Bonaparte">
                 </a>
             </div>
         </div>
@@ -191,19 +191,19 @@
         <div class="row image1">
             <div class="col">
                     <a class="a-img-txt" href="">
-                        <img src="../images/personnels/Lionel Colin.jpg" class="card-img-top" alt="...">
+                        <img src="../images/personnels/Lionel Colin.jpg" class="card-img-top" alt="Action solidaire des personnels du Lycée Bonaparte">
                     </a>
             </div>
         
             <div class="col">
                 <a class="a-img-txt" href="">
-                    <img src="../images/personnels/Loïc Mayolle.jpg" class="card-img-top" alt="...">
+                    <img src="../images/personnels/Loïc Mayolle.jpg" class="card-img-top" alt="Action solidaire des personnels du Lycée Bonaparte">
                 </a>
             </div>
             
             <div class="col">
                 <a class="a-img-txt" href="">
-                    <img src="../images/personnels/Madame Seymandi.jpg" class="card-img-top" alt="...">
+                    <img src="../images/personnels/Madame Seymandi.jpg" class="card-img-top" alt="Action solidaire des personnels du Lycée Bonaparte">
                 </a>
             </div>
         </div>
