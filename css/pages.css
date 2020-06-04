@@ -1,5 +1,5 @@
 /*
-Fichier CSS pour la mise en pages utilisé dans toutes les pages.
+Fichier CSS pour la mise en pages utilisée dans toutes les pages.
 */
 /* 
     Créé Le : 17 mai 2020, 13:55:19
@@ -56,18 +56,18 @@ footer p {                                      /*    Modification du paragraphe
     background-color: black;
 }
 
-.carousel-control-next-icon {                   /*     Changement de la couleur de fond du bouton suivant du carousel (Suite à la problématique d'invisibilité de celui-ci lors de l'affichage d'images blanches). */
+.carousel-control-next-icon {                   /*     Changement de la couleur de fond du bouton suivant du caroussel (Suite à la problématique d'invisibilité de celui-ci lors de l'affichage d'images blanches). */
     background-color: black;
 }
 
-.carousel-indicators li {                       /*     Changement de la couleur de l'indicateur de possition d'images sur le carousel (Suite à la problématique d'invisibilité de celui-ci lors de l'affichage d'images blanches). */
+.carousel-indicators li {                       /*     Changement de la couleur de l'indicateur de position d'images sur le caroussel (Suite à la problématique d'invisibilité de celui-ci lors de l'affichage d'images blanches). */
     border: 2px dotted;
     border: black;
     background-color: black;
 }
 
 
-#menuprincipal {                                /*      Colorination de la barre de navigation (ou menu principal).    */
+#menuprincipal {                                /*      Colorisation de la barre de navigation (ou menu principal).    */
     background: #BDBDBD !important;
     background-position: top;
     padding: 15px;
@@ -100,7 +100,7 @@ footer p {                                      /*    Modification du paragraphe
     height:auto;
 }
 
-.brm-headerTop {                    /*      Colorination de la barre de navigation (ou menu principal).    */
+.brm-headerTop {                    /*      Colorisation de la barre de navigation (ou menu principal).    */
   height: 70px;
   position: absolute;
   left: 0;
@@ -122,7 +122,7 @@ footer p {                                      /*    Modification du paragraphe
   border-top: 1px solid #66666621;
 }
 
-a.link {                                    /*     Changment de l'aparence des liens sur le site.    */
+a.link {                                    /*     Changement de l'apparence des liens sur le site.    */
     position: relative;
     padding: 1rem 0 0.5rem;
     margin: 0 1.5rem;
@@ -130,12 +130,12 @@ a.link {                                    /*     Changment de l'aparence des l
     text-decoration: none;   
 }
 
-.a-img-txt{                                /*     Changment de l'aparence des images de la page d'acceuil.    */
+.a-img-txt{                                /*     Changement de l'apparence des images de la page d'acceuil.    */
   display:grid; 
 }
  
 /* les enfants se superposent */
-.a-img-txt>*{                               /*     Changment de l'aparence des images de la page d'acceuil.    */
+.a-img-txt>*{                               /*     Changement de l'apparence des images de la page d'acceuil.    */
   grid-area:1/1/-1/-1; 
   /* raccourci pour grid-row et grid-column */
 }
@@ -160,14 +160,14 @@ a.link {                                    /*     Changment de l'aparence des l
   border-radius: 5px;
 }
  
-                                        /*    Décoration d'arière plan.    */
+                                        /*    Décoration de l'arrière plan.    */
 body {
     background: url(../logo/fond4.png) no-repeat white; /*#0F0F0F*/
     background-size: cover;
     background-attachment: fixed;
 }
 
-.fond{                                      /*    Décorations de la division parente aux images des pages.     */
+.fond{                                      /*    Décoration de la division parente aux images des pages.     */
     background-color: rgba(28, 40, 51, 0.8);
     box-sizing: border-box;
     height: 78vh;
@@ -185,12 +185,12 @@ body {
     border-radius: 5px;
 }
  
-img{                                        /*    Desciption de la taile des images sur le site.     */    
+img{                                        /*    Desciption de la taille des images sur le site.     */    
   max-width:100%;
   height:auto;
 }
 
-a{                                          /*    Supresion de la couleur bleu des liens.     */    
+a{                                          /*    Suppression de la couleur bleu des liens.     */    
   text-decoration:none;
 }
 
@@ -237,15 +237,15 @@ background-color: rgba(28, 40, 51, 0.8) !important;
 }
 
 
-.carousel-indicators {                                      /*     Changement de la hauteur de l'indicateur de possition d'images afin qu'il soit au-dessous des images.     */
+.carousel-indicators {                                      /*     Changement de la hauteur de l'indicateur de position d'images afin qu'il soit au-dessous des images.     */
     bottom: -28px !important;
 }
 
 
-.card:hover {                                                   /*      Changement du fond quand on passe la sourie devant une division de classe "card"            */
+.card:hover {                                                   /*      Changement du fond lorsque l'on passe la sourie devant une division de classe "card"            */
 background-color: gray!important;
 }
 
-.col:hover {                                                    /*      Changement du fond quand on passe la sourie devant une division de classe "col"         */
+.col:hover {                                                    /*      Changement du fond lorsque l'on passe la sourie devant une division de classe "col"         */
     background-color: gray!important;
 }
