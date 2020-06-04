@@ -204,7 +204,7 @@
         
             <div class="col">
                 <video width="320" height="240" class="a-img-txt" controls>
-                    <source src="../images/les_bonus_du_bts_communication/Vidéo BTS COM.mp4" class="card-img-top" type="video/mp4">
+                    <source src="../videos/Vidéo BTS COM.mp4" class="card-img-top" type="video/mp4">
                     Your browser does not support the <code>video</code> tag.
                     <span class="a-txt cb"></span>
                 </video>
