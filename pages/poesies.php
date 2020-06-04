@@ -89,6 +89,7 @@
         
         
         <! -- Affichage des images -->
+        <div class="container fond" id="full-back">
         <div class="card-group">
             <div class="card">
                 <img src="./../images/Poesies/Alizée Costagliola.jpg" class="card-img-top" alt="...">
@@ -118,7 +119,7 @@
                 <img src="./../images/Poesies/Manon.jpg" class="card-img-top" alt="...">
             </div>
         </div>
-
+        </div>
 
         <div id="border">
         </div>
