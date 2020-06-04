@@ -28,60 +28,6 @@
             </ol>
         </nav>
         
-        <! -- Caroussel (Slide Show) -->
-         
-        <div class="car-class">
-        <div id="carouselExampleIndicators" class="carousel slide" data-ride="carousel">
-            <ol class="carousel-indicators">
-                <li data-target="#carouselExampleIndicators" data-slide-to="0" class="active"></li>
-                <li data-target="#carouselExampleIndicators" data-slide-to="1"></li>
-                <li data-target="#carouselExampleIndicators" data-slide-to="2"></li>
-                <li data-target="#carouselExampleIndicators" data-slide-to="3"></li>
-                <li data-target="#carouselExampleIndicators" data-slide-to="4"></li>
-                <li data-target="#carouselExampleIndicators" data-slide-to="5"></li>
-                <li data-target="#carouselExampleIndicators" data-slide-to="6"></li>
-                <li data-target="#carouselExampleIndicators" data-slide-to="7"></li>
-                <li data-target="#carouselExampleIndicators" data-slide-to="8"></li>
-                <li data-target="#carouselExampleIndicators" data-slide-to="9"></li>
-                <li data-target="#carouselExampleIndicators" data-slide-to="10"></li>
-                <li data-target="#carouselExampleIndicators" data-slide-to="11"></li>
-                <li data-target="#carouselExampleIndicators" data-slide-to="12"></li>
-                <li data-target="#carouselExampleIndicators" data-slide-to="13"></li>
-                <li data-target="#carouselExampleIndicators" data-slide-to="14"></li>
-            </ol>
-            <center>
-                <div class="carousel-inner">
-                <video width="320" height="240" controls>
-                    <source src="../videos/Amandine Bedouet-Gaillard.mp4" type="video/mp4">
-                    Your browser does not support the <code>video</code> tag.
-                </video>
-                <video width="320" height="240" controls>
-                    <source src="../videos/Famille Roblin - merci aux soignants.mp4" type="video/mp4">
-                    Your browser does not support the <code>video</code> tag.
-                </video>
-                <video width="320" height="240" controls>
-                    <source src="../videos/Issam 2d8.mp4" type="video/mp4">
-                    Your browser does not support the <code>video</code> tag.
-                </video>
-                <video width="320" height="240" controls>
-                    <source src="../videos/teaser-du-projet-heros-du-quotidien.mp4" type="video/mp4">
-                    Your browser does not support the <code>video</code> tag.
-                </video>
-            </div>
-                </center>
-            <a class="carousel-control-prev" href="#carouselExampleIndicators" role="button" data-slide="prev">
-                <span class="carousel-control-prev-icon" aria-hidden="true"></span>
-                <span class="sr-only">Précédent</span>
-            </a>
-            <a class="carousel-control-next" href="#carouselExampleIndicators" role="button" data-slide="next">
-                <span class="carousel-control-next-icon" aria-hidden="true"></span>
-                <span class="sr-only">Suivant</span>
-            </a>
-        </div>
-
-        </div>
-        
-        
         
         <! -- Affichage des vidéos -->
         <div>
