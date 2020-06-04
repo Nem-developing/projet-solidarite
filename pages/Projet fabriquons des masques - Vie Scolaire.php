@@ -232,10 +232,10 @@
         
         <div class="card-group">
             <div class="card">
-                <img src="./../images/Masques/Projet masque Vie Scolaire 5.jpg" class="card-img-top" alt="...">
+                <img src="./../images/Masques/Projet masque Vie Scolaire 5.jpg" class="card-img-top" alt="Image d'une personne recevant un masque.">
             </div>
             <div class="card">
-                <img src="./../images/Masques/Projet masque Vie Scolaire 6.jpg" class="card-img-top" alt="...">
+                <img src="./../images/Masques/Projet masque Vie Scolaire 6.jpg" class="card-img-top" alt="Image d'une personne recevant un masque.">
             </div>
         </div>
         
