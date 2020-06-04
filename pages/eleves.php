@@ -46,49 +46,49 @@
             <center>
             <div class="carousel-inner">
                 <div class="carousel-item active">
-                    <img src="../images/eleves/Alexandre Poncelet-Urfels 1ère 7.jpg" class="d-block w-10" alt="...">
+                    <img src="../images/eleves/Alexandre Poncelet-Urfels 1ère 7.jpg" class="d-block w-10" alt="Action solidaire des élèves">
                 </div>
                 <div class="carousel-item">
-                    <img src="../images/eleves/Alizée Costagliola.jpg" class="d-block w-10" alt="...">
+                    <img src="../images/eleves/Alizée Costagliola.jpg" class="d-block w-10" alt="Action solidaire des élèves">
                 </div>
                 <div class="carousel-item">
-                    <img src="../images/eleves/Ambre 2d10.jpg" class="d-block w-10" alt="...">
+                    <img src="../images/eleves/Ambre 2d10.jpg" class="d-block w-10" alt="Action solidaire des élèves">
                 </div>
                 <div class="carousel-item">
-                    <img src="../images/eleves/Amélie 2d10.jpg" class="d-block w-10" alt="...">
+                    <img src="../images/eleves/Amélie 2d10.jpg" class="d-block w-10" alt="Action solidaire des élèves">
                 </div>
                 <div class="carousel-item">
-                    <img src="../images/eleves/Angélina 2d10.jpg" class="d-block w-10" alt="...">
+                    <img src="../images/eleves/Angélina 2d10.jpg" class="d-block w-10" alt="Action solidaire des élèves">
                 </div>
                 <div class="carousel-item">
-                    <img src="../images/eleves/Anissa Abbassi 2d08.jpg" class="d-block w-10" alt="...">
+                    <img src="../images/eleves/Anissa Abbassi 2d08.jpg" class="d-block w-10" alt="Action solidaire des élèves">
                 </div>
                 <div class="carousel-item">
-                    <img src="../images/eleves/Antton BTS SAM 1.jpg" class="d-block w-10" alt="...">
+                    <img src="../images/eleves/Antton BTS SAM 1.jpg" class="d-block w-10" alt="Action solidaire des élèves">
                 </div>
                 <div class="carousel-item">
-                    <img src="../images/eleves/Aurélie Dumas 1.jpg" class="d-block w-10" alt="...">
+                    <img src="../images/eleves/Aurélie Dumas 1.jpg" class="d-block w-10" alt="Action solidaire des élèves">
                 </div>
                 <div class="carousel-item">
-                    <img src="../images/eleves/Aurélie Dumas 2.jpg" class="d-block w-10" alt="...">
+                    <img src="../images/eleves/Aurélie Dumas 2.jpg" class="d-block w-10" alt="Action solidaire des élèves">
                 </div>
                 <div class="carousel-item">
-                    <img src="../images/eleves/Aurélie Dumas.jpg" class="d-block w-10" alt="...">
+                    <img src="../images/eleves/Aurélie Dumas.jpg" class="d-block w-10" alt="Action solidaire des élèves">
                 </div>
                 <div class="carousel-item">
-                    <img src="../images/eleves/BTS SP3S2 - 2.jpg" class="d-block w-10" alt="...">
+                    <img src="../images/eleves/BTS SP3S2 - 2.jpg" class="d-block w-10" alt="Action solidaire des élèves">
                 </div>
                 <div class="carousel-item">
-                    <img src="../images/eleves/Bocar Barbosa Diallo.jpg" class="d-block w-10" alt="...">
+                    <img src="../images/eleves/Bocar Barbosa Diallo.jpg" class="d-block w-10" alt="Action solidaire des élèves">
                 </div>
                 <div class="carousel-item">
-                    <img src="../images/eleves/Camille GIORGI.jpg" class="d-block w-10" alt="...">
+                    <img src="../images/eleves/Camille GIORGI.jpg" class="d-block w-10" alt="Action solidaire des élèves">
                 </div>
                 <div class="carousel-item">
-                    <img src="../images/eleves/Chaima Baccar SP3S2.jpg" class="d-block w-10" alt="...">
+                    <img src="../images/eleves/Chaima Baccar SP3S2.jpg" class="d-block w-10" alt="Action solidaire des élèves">
                 </div>
                 <div class="carousel-item">
-                    <img src="../images/eleves/Chaïma Souidi.jpg" class="d-block w-10" alt="...">
+                    <img src="../images/eleves/Chaïma Souidi.jpg" class="d-block w-10" alt="Action solidaire des élèves">
                 </div>   
             </div>
                 </center>
@@ -111,25 +111,25 @@
         <div class="row image1">
             <div class="col">
                     <a class="a-img-txt">
-                        <img src="../images/eleves/Alexandre Poncelet-Urfels 1ère 7.jpg" class="card-img-top" alt="...">
+                        <img src="../images/eleves/Alexandre Poncelet-Urfels 1ère 7.jpg" class="card-img-top" alt="Action solidaire des élèves">
                     </a>
             </div>
         
             <div class="col">
                     <a class="a-img-txt">
-                        <img src="../images/eleves/Alizée Costagliola.jpg" class="card-img-top" alt="...">
+                        <img src="../images/eleves/Alizée Costagliola.jpg" class="card-img-top" alt="Action solidaire des élèves">
                     </a>
             </div>
             
             <div class="col">
                     <a class="a-img-txt">
-                        <img src="../images/eleves/Ambre 2d10.jpg" class="card-img-top" alt="...">
+                        <img src="../images/eleves/Ambre 2d10.jpg" class="card-img-top" alt="Action solidaire des élèves">
                     </a>
             </div>
             
             <div class="col">
                 <a class="a-img-txt">
-                    <img src="../images/eleves/Amélie 2d10.jpg" class="card-img-top" alt="...">
+                    <img src="../images/eleves/Amélie 2d10.jpg" class="card-img-top" alt="Action solidaire des élèves">
                 </a>
             </div>
         </div>
@@ -138,25 +138,25 @@
         <div class="row image1">
             <div class="col">
                     <a class="a-img-txt">
-                        <img src="../images/eleves/Angélina 2d10.jpg" class="card-img-top" alt="...">
+                        <img src="../images/eleves/Angélina 2d10.jpg" class="card-img-top" alt="Action solidaire des élèves">
                     </a>
             </div>
         
             <div class="col">
                     <a class="a-img-txt">
-                        <img src="../images/eleves/Anissa Abbassi 2d08.jpg" class="card-img-top" alt="...">
+                        <img src="../images/eleves/Anissa Abbassi 2d08.jpg" class="card-img-top" alt="Action solidaire des élèves">
                     </a>
             </div>
             
             <div class="col">
                     <a class="a-img-txt">
-                        <img src="../images/eleves/Antton BTS SAM 1.jpg" class="card-img-top" alt="...">
+                        <img src="../images/eleves/Antton BTS SAM 1.jpg" class="card-img-top" alt="Action solidaire des élèves">
                     </a>
             </div>
             
             <div class="col">
                 <a class="a-img-txt">
-                    <img src="../images/eleves/Aurélie Dumas 1.jpg" class="card-img-top" alt="...">
+                    <img src="../images/eleves/Aurélie Dumas 1.jpg" class="card-img-top" alt="Action solidaire des élèves">
                 </a>
             </div>
         </div>
@@ -165,25 +165,25 @@
         <div class="row image1">
             <div class="col">
                     <a class="a-img-txt">
-                        <img src="../images/eleves/Aurélie Dumas 2.jpg" class="card-img-top" alt="...">
+                        <img src="../images/eleves/Aurélie Dumas 2.jpg" class="card-img-top" alt="Action solidaire des élèves">
                     </a>
             </div>
         
             <div class="col">
                     <a class="a-img-txt">
-                        <img src="../images/eleves/Aurélie Dumas.jpg" class="card-img-top" alt="...">
+                        <img src="../images/eleves/Aurélie Dumas.jpg" class="card-img-top" alt="Action solidaire des élèves">
                     </a>
             </div>
             
             <div class="col">
                     <a class="a-img-txt>
-                        <img src="../images/eleves/BTS SP3S2 - 2.jpg" class="card-img-top" alt="...">
+                        <img src="../images/eleves/BTS SP3S2 - 2.jpg" class="card-img-top" alt="Action solidaire des élèves">
                     </a>
             </div>
             
             <div class="col">
                 <a class="a-img-txt">
-                    <img src="../images/eleves/Bocar Barbosa Diallo.jpg" class="card-img-top" alt="...">
+                    <img src="../images/eleves/Bocar Barbosa Diallo.jpg" class="card-img-top" alt="Action solidaire des élèves">
                 </a>
             </div>
         </div>
@@ -191,19 +191,19 @@
         <div class="row image1">
             <div class="col">
                     <a class="a-img-txt>
-                        <img src="../images/eleves/Camille GIORGI.jpg" class="card-img-top" alt="...">
+                        <img src="../images/eleves/Camille GIORGI.jpg" class="card-img-top" alt="Action solidaire des élèves">
                     </a>
             </div>
         
             <div class="col">
                 <a class="a-img-txt>
-                    <img src="../images/eleves/Chaima Baccar SP3S2.jpg" class="card-img-top" alt="...">
+                    <img src="../images/eleves/Chaima Baccar SP3S2.jpg" class="card-img-top" alt="Action solidaire des élèves">
                 </a>
             </div>
             
             <div class="col">
                 <a class="a-img-txt>
-                    <img src="../images/eleves/Chaïma Souidi.jpg" class="card-img-top" alt="...">
+                    <img src="../images/eleves/Chaïma Souidi.jpg" class="card-img-top" alt="Action solidaire des élèves">
                 </a>
             </div>
         </div>
