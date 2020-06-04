@@ -45,82 +45,82 @@
             <center>
             <div class="carousel-inner">
                 <div class="carousel-item active">
-                    <img src="../images/Masques/La réception des masques ! Des personnes heureuses. 1.jpg" class="d-block w-10" alt="...">
+                    <img src="../images/Masques/La réception des masques ! Des personnes heureuses. 1.jpg" class="d-block w-10" alt="Image d'une personne recevant un masque.">
                 </div>
                 <div class="carousel-item">
-                    <img src="../images/Masques/La réception des masques ! Des personnes heureuses. 10.jpg" class="d-block w-10" alt="...">
+                    <img src="../images/Masques/La réception des masques ! Des personnes heureuses. 10.jpg" class="d-block w-10" alt="Image d'une personne recevant un masque.">
                 </div>
                 <div class="carousel-item">
-                    <img src="../images/Masques/La réception des masques ! Des personnes heureuses. 11.jpg" class="d-block w-10" alt="...">
+                    <img src="../images/Masques/La réception des masques ! Des personnes heureuses. 11.jpg" class="d-block w-10" alt="Image d'une personne recevant un masque.">
                 </div>
                 <div class="carousel-item">
-                    <img src="../images/Masques/La réception des masques ! Des personnes heureuses. 12.jpg" class="d-block w-10" alt="...">
+                    <img src="../images/Masques/La réception des masques ! Des personnes heureuses. 12.jpg" class="d-block w-10" alt="Image d'une personne recevant un masque.">
                 </div>
                 <div class="carousel-item">
-                    <img src="../images/Masques/La réception des masques ! Des personnes heureuses. 13.jpg" class="d-block w-10" alt="...">
+                    <img src="../images/Masques/La réception des masques ! Des personnes heureuses. 13.jpg" class="d-block w-10" alt="Image d'une personne recevant un masque.">
                 </div>
                 <div class="carousel-item">
-                    <img src="../images/Masques/La réception des masques ! Des personnes heureuses. 14.jpg" class="d-block w-10" alt="...">
+                    <img src="../images/Masques/La réception des masques ! Des personnes heureuses. 14.jpg" class="d-block w-10" alt="Image d'une personne recevant un masque.">
                 </div>
                 <div class="carousel-item">
-                    <img src="../images/Masques/La réception des masques ! Des personnes heureuses. 2.jpg" class="d-block w-10" alt="...">
+                    <img src="../images/Masques/La réception des masques ! Des personnes heureuses. 2.jpg" class="d-block w-10" alt="Image d'une personne recevant un masque.">
                 </div>
                 <div class="carousel-item">
-                    <img src="../images/Masques/La réception des masques ! Des personnes heureuses. 3.jpg" class="d-block w-10" alt="...">
+                    <img src="../images/Masques/La réception des masques ! Des personnes heureuses. 3.jpg" class="d-block w-10" alt="Image d'une personne recevant un masque.">
                 </div>
                 <div class="carousel-item">
-                    <img src="../images/Masques/La réception des masques ! Des personnes heureuses. 4.jpg" class="d-block w-10" alt="...">
+                    <img src="../images/Masques/La réception des masques ! Des personnes heureuses. 4.jpg" class="d-block w-10" alt="Image d'une personne recevant un masque.">
                 </div>
                 <div class="carousel-item">
-                    <img src="../images/Masques/La réception des masques ! Des personnes heureuses. 5.jpg" class="d-block w-10" alt="...">
+                    <img src="../images/Masques/La réception des masques ! Des personnes heureuses. 5.jpg" class="d-block w-10" alt="Image d'une personne recevant un masque.">
                 </div>
                 <div class="carousel-item">
-                    <img src="../images/Masques/La réception des masques ! Des personnes heureuses. 6.jpg" class="d-block w-10" alt="...">
+                    <img src="../images/Masques/La réception des masques ! Des personnes heureuses. 6.jpg" class="d-block w-10" alt="Image d'une personne recevant un masque.">
                 </div>
                 <div class="carousel-item">
-                    <img src="../images/Masques/La réception des masques ! Des personnes heureuses. 7.jpg" class="d-block w-10" alt="...">
+                    <img src="../images/Masques/La réception des masques ! Des personnes heureuses. 7.jpg" class="d-block w-10" alt="Image d'une personne recevant un masque.">
                 </div>
                 <div class="carousel-item">
-                    <img src="../images/Masques/La réception des masques ! Des personnes heureuses. 8.jpg" class="d-block w-10" alt="...">
+                    <img src="../images/Masques/La réception des masques ! Des personnes heureuses. 8.jpg" class="d-block w-10" alt="Image d'une personne recevant un masque.">
                 </div>
                 <div class="carousel-item">
-                    <img src="../images/Masques/La réception des masques ! Des personnes heureuses. 9.jpg" class="d-block w-10" alt="...">
+                    <img src="../images/Masques/La réception des masques ! Des personnes heureuses. 9.jpg" class="d-block w-10" alt="Image d'une personne recevant un masque.">
                 </div>
                 <div class="carousel-item">
-                    <img src="../images/Masques/La réception des masques ! Des personnes heureuses..jpg" class="d-block w-10" alt="...">
+                    <img src="../images/Masques/La réception des masques ! Des personnes heureuses..jpg" class="d-block w-10" alt="Image d'une personne recevant un masque.">
                 </div>  
                 <div class="carousel-item">
-                    <img src="../images/Masques/Manuela.jpg" class="d-block w-10" alt="...">
+                    <img src="../images/Masques/Manuela.jpg" class="d-block w-10" alt="Image d'une personne recevant un masque.">
                 </div> 
                 <div class="carousel-item">
-                    <img src="../images/Masques/Projet masque Vie Scolaire .jpg" class="d-block w-10" alt="...">
+                    <img src="../images/Masques/Projet masque Vie Scolaire .jpg" class="d-block w-10" alt="Image d'une personne recevant un masque.">
                 </div>
                 <div class="carousel-item">
-                    <img src="../images/Masques/Projet masque Vie Scolaire 1.jpg" class="d-block w-10" alt="...">
+                    <img src="../images/Masques/Projet masque Vie Scolaire 1.jpg" class="d-block w-10" alt="Image d'une personne recevant un masque.">
                 </div>
                 <div class="carousel-item">
-                    <img src="../images/Masques/Projet masque Vie Scolaire 2.jpg" class="d-block w-10" alt="...">
+                    <img src="../images/Masques/Projet masque Vie Scolaire 2.jpg" class="d-block w-10" alt="Image d'une personne recevant un masque.">
                 </div>
                 <div class="carousel-item">
-                    <img src="../images/Masques/Projet masque Vie Scolaire 3.jpg" class="d-block w-10" alt="...">
+                    <img src="../images/Masques/Projet masque Vie Scolaire 3.jpg" class="d-block w-10" alt="Image d'une personne recevant un masque.">
                 </div>
                 <div class="carousel-item">
-                    <img src="../images/Masques/Projet masque Vie Scolaire 4.jpg" class="d-block w-10" alt="...">
+                    <img src="../images/Masques/Projet masque Vie Scolaire 4.jpg" class="d-block w-10" alt="Image d'une personne recevant un masque.">
                 </div>
                 <div class="carousel-item">
-                    <img src="../images/Masques/Projet masque Vie Scolaire 5.jpg" class="d-block w-10" alt="...">
+                    <img src="../images/Masques/Projet masque Vie Scolaire 5.jpg" class="d-block w-10" alt="Image d'une personne recevant un masque.">
                 </div>
                 <div class="carousel-item">
-                    <img src="../images/Masques/Projet masque Vie Scolaire 6.jpg" class="d-block w-10" alt="...">
+                    <img src="../images/Masques/Projet masque Vie Scolaire 6.jpg" class="d-block w-10" alt="Image d'une personne recevant un masque.">
                 </div>
                 <div class="carousel-item">
-                    <img src="../images/Masques/Sophie Auger - Projet Masque.jpg" class="d-block w-10" alt="...">
+                    <img src="../images/Masques/Sophie Auger - Projet Masque.jpg" class="d-block w-10" alt="Image d'une personne recevant un masque.">
                 </div>
                 <div class="carousel-item">
-                    <img src="../images/Masques/encore plus de masques !!!.jpg" class="d-block w-10" alt="...">
+                    <img src="../images/Masques/encore plus de masques !!!.jpg" class="d-block w-10" alt="Image d'une personne recevant un masque.">
                 </div>
                 <div class="carousel-item">
-                    <img src="../images/Masques/encore plus de masques - la suite !!!.jpg" class="d-block w-10" alt="...">
+                    <img src="../images/Masques/encore plus de masques - la suite !!!.jpg" class="d-block w-10" alt="Image d'une personne recevant un masque.">
                 </div>
             </div>
                 </center>
@@ -142,91 +142,91 @@
         <div class="container fond" id="full-back">
         <div class="card-group">
             <div class="card">
-                <img src="./../images/Masques/encore plus de masques !!!.jpg" class="card-img-top" alt="...">
+                <img src="./../images/Masques/encore plus de masques !!!.jpg" class="card-img-top" alt="Image d'une personne recevant un masque.">
             </div>
             <div class="card">
-                <img src="./../images/Masques/encore plus de masques - la suite !!!.jpg" class="card-img-top" alt="...">
+                <img src="./../images/Masques/encore plus de masques - la suite !!!.jpg" class="card-img-top" alt="Image d'une personne recevant un masque.">
             </div>
             <div class="card">
-                <img src="./../images/Masques/La réception des masques ! Des personnes heureuses..jpg" class="card-img-top" alt="...">
+                <img src="./../images/Masques/La réception des masques ! Des personnes heureuses..jpg" class="card-img-top" alt="Image d'une personne recevant un masque.">
             </div>
             <div class="card">
-                <img src="./../images/Masques/La réception des masques ! Des personnes heureuses. 1.jpg" class="card-img-top" alt="...">
+                <img src="./../images/Masques/La réception des masques ! Des personnes heureuses. 1.jpg" class="card-img-top" alt="Image d'une personne recevant un masque.">
             </div>
             <div class="card">
-                <img src="./../images/Masques/La réception des masques ! Des personnes heureuses. 2.jpg" class="card-img-top" alt="...">
-            </div>
-        </div>
-        
-        <div class="card-group">
-            <div class="card">
-                <img src="./../images/Masques/La réception des masques ! Des personnes heureuses. 3.jpg" class="card-img-top" alt="...">
-            </div>
-            <div class="card">
-                <img src="./../images/Masques/La réception des masques ! Des personnes heureuses. 3.jpg" class="card-img-top" alt="...">
-            </div>
-            <div class="card">
-                <img src="./../images/Masques/La réception des masques ! Des personnes heureuses. 4.jpg" class="card-img-top" alt="...">
-            </div>
-            <div class="card">
-                <img src="./../images/Masques/La réception des masques ! Des personnes heureuses. 5.jpg" class="card-img-top" alt="...">
-            </div>
-            <div class="card">
-                <img src="./../images/Masques/La réception des masques ! Des personnes heureuses. 6.jpg" class="card-img-top" alt="...">
+                <img src="./../images/Masques/La réception des masques ! Des personnes heureuses. 2.jpg" class="card-img-top" alt="Image d'une personne recevant un masque.">
             </div>
         </div>
         
         <div class="card-group">
             <div class="card">
-                <img src="./../images/Masques/La réception des masques ! Des personnes heureuses. 7.jpg" class="card-img-top" alt="...">
+                <img src="./../images/Masques/La réception des masques ! Des personnes heureuses. 3.jpg" class="card-img-top" alt="Image d'une personne recevant un masque.">
             </div>
             <div class="card">
-                <img src="./../images/Masques/La réception des masques ! Des personnes heureuses. 8.jpg" class="card-img-top" alt="...">
+                <img src="./../images/Masques/La réception des masques ! Des personnes heureuses. 3.jpg" class="card-img-top" alt="Image d'une personne recevant un masque.">
             </div>
             <div class="card">
-                <img src="./../images/Masques/La réception des masques ! Des personnes heureuses. 9.jpg" class="card-img-top" alt="...">
+                <img src="./../images/Masques/La réception des masques ! Des personnes heureuses. 4.jpg" class="card-img-top" alt="Image d'une personne recevant un masque.">
             </div>
             <div class="card">
-                <img src="./../images/Masques/La réception des masques ! Des personnes heureuses. 10.jpg" class="card-img-top" alt="...">
+                <img src="./../images/Masques/La réception des masques ! Des personnes heureuses. 5.jpg" class="card-img-top" alt="Image d'une personne recevant un masque.">
             </div>
             <div class="card">
-                <img src="./../images/Masques/La réception des masques ! Des personnes heureuses. 11.jpg" class="card-img-top" alt="...">
-            </div>
-        </div>
-        
-        <div class="card-group">
-            <div class="card">
-                <img src="./../images/Masques/La réception des masques ! Des personnes heureuses. 12.jpg" class="card-img-top" alt="...">
-            </div>
-            <div class="card">
-                <img src="./../images/Masques/La réception des masques ! Des personnes heureuses. 13.jpg" class="card-img-top" alt="...">
-            </div>
-            <div class="card">
-                <img src="./../images/Masques/La réception des masques ! Des personnes heureuses. 14.jpg" class="card-img-top" alt="...">
-            </div>
-            <div class="card">
-                <img src="./../images/Masques/Manuela.jpg" class="card-img-top" alt="...">
-            </div>
-            <div class="card">
-                <img src="./../images/Masques/Sophie Auger - Projet Masque.jpg" class="card-img-top" alt="...">
+                <img src="./../images/Masques/La réception des masques ! Des personnes heureuses. 6.jpg" class="card-img-top" alt="Image d'une personne recevant un masque.">
             </div>
         </div>
         
         <div class="card-group">
             <div class="card">
-                <img src="./../images/Masques/Projet masque Vie Scolaire .jpg" class="card-img-top" alt="...">
+                <img src="./../images/Masques/La réception des masques ! Des personnes heureuses. 7.jpg" class="card-img-top" alt="Image d'une personne recevant un masque.">
             </div>
             <div class="card">
-                <img src="./../images/Masques/Projet masque Vie Scolaire 1.jpg" class="card-img-top" alt="...">
+                <img src="./../images/Masques/La réception des masques ! Des personnes heureuses. 8.jpg" class="card-img-top" alt="Image d'une personne recevant un masque.">
             </div>
             <div class="card">
-                <img src="./../images/Masques/Projet masque Vie Scolaire 2.jpg" class="card-img-top" alt="...">
+                <img src="./../images/Masques/La réception des masques ! Des personnes heureuses. 9.jpg" class="card-img-top" alt="Image d'une personne recevant un masque.">
             </div>
             <div class="card">
-                <img src="./../images/Masques/Projet masque Vie Scolaire 3.jpg" class="card-img-top" alt="...">
+                <img src="./../images/Masques/La réception des masques ! Des personnes heureuses. 10.jpg" class="card-img-top" alt="Image d'une personne recevant un masque.">
             </div>
             <div class="card">
-                <img src="./../images/Masques/Projet masque Vie Scolaire 4.jpg" class="card-img-top" alt="...">
+                <img src="./../images/Masques/La réception des masques ! Des personnes heureuses. 11.jpg" class="card-img-top" alt="Image d'une personne recevant un masque.">
+            </div>
+        </div>
+        
+        <div class="card-group">
+            <div class="card">
+                <img src="./../images/Masques/La réception des masques ! Des personnes heureuses. 12.jpg" class="card-img-top" alt="Image d'une personne recevant un masque.">
+            </div>
+            <div class="card">
+                <img src="./../images/Masques/La réception des masques ! Des personnes heureuses. 13.jpg" class="card-img-top" alt="Image d'une personne recevant un masque.">
+            </div>
+            <div class="card">
+                <img src="./../images/Masques/La réception des masques ! Des personnes heureuses. 14.jpg" class="card-img-top" alt="Image d'une personne recevant un masque.">
+            </div>
+            <div class="card">
+                <img src="./../images/Masques/Manuela.jpg" class="card-img-top" alt="Image d'une personne recevant un masque.">
+            </div>
+            <div class="card">
+                <img src="./../images/Masques/Sophie Auger - Projet Masque.jpg" class="card-img-top" alt="Image d'une personne recevant un masque.">
+            </div>
+        </div>
+        
+        <div class="card-group">
+            <div class="card">
+                <img src="./../images/Masques/Projet masque Vie Scolaire .jpg" class="card-img-top" alt="Image d'une personne recevant un masque.">
+            </div>
+            <div class="card">
+                <img src="./../images/Masques/Projet masque Vie Scolaire 1.jpg" class="card-img-top" alt="Image d'une personne recevant un masque.">
+            </div>
+            <div class="card">
+                <img src="./../images/Masques/Projet masque Vie Scolaire 2.jpg" class="card-img-top" alt="Image d'une personne recevant un masque.">
+            </div>
+            <div class="card">
+                <img src="./../images/Masques/Projet masque Vie Scolaire 3.jpg" class="card-img-top" alt="Image d'une personne recevant un masque.">
+            </div>
+            <div class="card">
+                <img src="./../images/Masques/Projet masque Vie Scolaire 4.jpg" class="card-img-top" alt="Image d'une personne recevant un masque.">
             </div>
         </div>
         
