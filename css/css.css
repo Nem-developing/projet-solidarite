@@ -270,9 +270,9 @@ videos {
 
 div.card{
 background-color: rgba(28, 40, 51, 0.8) !important;
-    align-items: center;
-    justify-content: center;
-    padding-top: 25px;
+    align-items: center !important;
+    justify-content: center !important;
+    padding-top: 25px !important;
 }
 
 
