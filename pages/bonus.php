@@ -124,11 +124,11 @@
             </div>
             
             <div class="col">
-                    <a class="a-img-txt" href="">
-                        <img src="./../images/les_bonus_du_bts_communication/Bonus 4.jpg" class="card-img-top" alt="...">
-                        <span class="a-txt cb"></span>
-                    </a>
-                </div>
+                <a class="a-img-txt" href="">
+                    <img src="./../images/les_bonus_du_bts_communication/Bonus 4.jpg" class="card-img-top" alt="...">
+                    <span class="a-txt cb"></span>
+                </a>
+            </div>
         </div>
         
         
@@ -155,11 +155,11 @@
             </div>
             
             <div class="col">
-                    <a class="a-img-txt" href="">
-                        <img src="./../images/les_bonus_du_bts_communication/Bonus 8.jpg" class="card-img-top" alt="...">
-                        <span class="a-txt cb"></span>
-                    </a>
-                </div>
+                <a class="a-img-txt" href="">
+                    <img src="./../images/les_bonus_du_bts_communication/Bonus 8.jpg" class="card-img-top" alt="...">
+                    <span class="a-txt cb"></span>
+                </a>
+            </div>
         </div>
         
         
@@ -186,10 +186,10 @@
             </div>
             
             <div class="col">
-                    <a class="a-img-txt" href="">
-                        <img src="./../images/les_bonus_du_bts_communication/Bonus 12.jpg" class="card-img-top" alt="...">
-                        <span class="a-txt cb"></span>
-                    </a>
+                <a class="a-img-txt" href="">
+                    <img src="./../images/les_bonus_du_bts_communication/Bonus 12.jpg" class="card-img-top" alt="...">
+                    <span class="a-txt cb"></span>
+                </a>
             </div>
         </div>
         
@@ -209,8 +209,7 @@
                 </video>
             </div>
         </div>
-        
- </div>
+    </div>
 
 
 
