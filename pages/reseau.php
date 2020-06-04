@@ -20,6 +20,13 @@
           include '../includes/header.html';
         ?>
         
+        <! -- Fil d'Ariane -->
+        <nav aria-label="breadcrumb">
+            <ol class="breadcrumb">
+                <li class="breadcrumb-item"><a href="../index.html">Accueil</a></li>
+                <li class="breadcrumb-item active" aria-current="page">Le réseau bonaparte</li>
+            </ol>
+        </nav>
         
         <! -- Caroussel (Slide Show) -->
          
@@ -31,7 +38,6 @@
                 <li data-target="#carouselExampleIndicators" data-slide-to="2"></li>
                 <li data-target="#carouselExampleIndicators" data-slide-to="3"></li>
                 <li data-target="#carouselExampleIndicators" data-slide-to="4"></li>
-                <li data-target="#carouselExampleIndicators" data-slide-to="5"></li>
             </ol>
             <center>
             <div class="carousel-inner">
@@ -46,10 +52,7 @@
                 </div>
                 <div class="carousel-item">
                     <img src="../images/le_reseau_bonaparte/Rahel Yebio (UPE2A Claret).jpg" class="d-block w-10" alt="...">
-                </div>
-                <div class="carousel-item">
-                    <img src="../images/le_reseau_bonaparte/collectif - structure d'accueil des enfants des personnels hospitaliers.jpg" class="d-block w-10" alt="...">
-                </div>  
+                </div> 
             </div>
                 </center>
             <a class="carousel-control-prev" href="#carouselExampleIndicators" role="button" data-slide="prev">
@@ -65,26 +68,39 @@
         </div>
         
 
-        <! -- Affichage des images -->
-        <div class="card-group">
-            <div class="card">
-                <img src="./../images/le_reseau_bonaparte/Linda Crespo, AESH, Collège Marcel Pagnol.jpg" class="card-img-top" alt="...">
+                <! -- Affichage des images -->
+        
+    <div class="container fond" id="full-back">
+        <div class="row image1">
+            <div class="col">
+                    <a class="a-img-txt" href="">
+                        <img src="../images/le_reseau_bonaparte/Linda Crespo, AESH, Collège Marcel Pagnol.jpg" class="card-img-top" alt="...">
+                        <span class="a-txt cb"></span>
+                    </a>
             </div>
-            <div class="card">
-                <img src="./../images/le_reseau_bonaparte/Lobna UPE2A - Claret.jpg" class="card-img-top" alt="...">
+        
+            <div class="col">
+                    <a class="a-img-txt" href="">
+                        <img src="../images/le_reseau_bonaparte/Lobna UPE2A - Claret.jpg" class="card-img-top" alt="...">
+                        <span class="a-txt cb"></span>
+                    </a>
             </div>
-            <div class="card">
-                <img src="./../images/le_reseau_bonaparte/Maryam HANAASHMONE UPE2A - Claret.jpg" class="card-img-top" alt="...">
+            
+            <div class="col">
+                    <a class="a-img-txt" href="">
+                        <img src="../images/le_reseau_bonaparte/Maryam HANAASHMONE UPE2A - Claret.jpg" class="card-img-top" alt="...">
+                        <span class="a-txt cb"></span>
+                    </a>
             </div>
-            <div class="card">
-                <img src="./../images/le_reseau_bonaparte/Rahel Yebio (UPE2A Claret).jpg" class="card-img-top" alt="...">
-            </div>
-            <div class="card">
-                <img src="./../images/le_reseau_bonaparte/collectif - structure d'accueil des enfants des personnels hospitaliers.jpg" class="card-img-top" alt="...">
+            
+            <div class="col">
+                <a class="a-img-txt" href="">
+                    <img src="../images/le_reseau_bonaparte/Rahel Yebio (UPE2A Claret).jpg" class="card-img-top" alt="...">
+                    <span class="a-txt cb"></span>
+                </a>
             </div>
         </div>
-        
-
+    </div>
 
 
         <div id="border">
@@ -96,6 +112,6 @@
     </body>
     
     <footer>
-        <p>&copy;2020 Projet Solidarité - <a href="https://github.com/IlanMarrache">Ilan Marrache</a> - <a href="https://github.com/Neyrim83">Dorian Rastello - <a href="http://github.com/nem-developing/">Néhémie Barkia</a><p>
+        <p>&copy;2020 Projet Solidarité <a href="https://github.com/IlanMarrache" class="link">Ilan Marrache</a> - <a href="https://github.com/Neyrim83" class="link">Dorian Rastello</a> - <a href="http://github.com/nem-developing/" class="link">Néhémie Barkia</a><p>
     </footer>
 </html>
