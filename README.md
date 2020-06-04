@@ -12,7 +12,7 @@ Ce projet est réalisé dans le cadre d'un travail de groupe et à but non-lucra
 <p align="center">
   <img src="https://avatars1.githubusercontent.com/u/65493510?s=460&u=45a03efd5e41d47cbb622ac5dc336bd9328c0e29&v=4" width="150" title="Marrache Ilan" alt="Logo de Mr Marrache Ilan.">
   <img src="https://avatars0.githubusercontent.com/u/49765091?s=460&u=caae8b908fb93c7f0a36ef1ca914d105c23c6835&v=4" width="150" title="Rastello Doria" alt="Logo de Mr Rastello Dorian.">
-  <img src="https://avatars0.githubusercontent.com/u/54665744?s=460&u=de929b6aa39e6277733107ec5e4563f44a47fb70&v=4" width="150" title="Barkia Néhémie" alt="Logo de Mr Barkia Néhémie.">
+  <img src="https://avatars1.githubusercontent.com/u/54665744?s=460&u=66bdbd853ece009c0ae5a2c0b7ccfb0acf7138d3&v=4" width="150" title="Barkia Néhémie" alt="Logo de Mr Barkia Néhémie.">
 </p>
 
 
