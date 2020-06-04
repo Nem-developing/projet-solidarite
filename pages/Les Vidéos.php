@@ -21,26 +21,39 @@
         ?>
 
         
+                        <! -- Affichage des images -->
         
-        <! -- Affichage des vidéos -->
-        <div id="les-vids">
+    <div class="container fond" id="full-back">
+        <div class="row image1">
+            <div class="col">
                 <video width="320" height="240" controls>
                     <source src="../videos/Amandine Bedouet-Gaillard.mp4" type="video/mp4">
                     Your browser does not support the <code>video</code> tag.
                 </video>
+            </div>
+        
+            <div class="col">
                 <video width="320" height="240" controls>
                     <source src="../videos/Famille Roblin - merci aux soignants.mp4" type="video/mp4">
                     Your browser does not support the <code>video</code> tag.
                 </video>
+            </div>
+            
+            <div class="col">
                 <video width="320" height="240" controls>
                     <source src="../videos/Issam 2d8.mp4" type="video/mp4">
                     Your browser does not support the <code>video</code> tag.
                 </video>
+            </div>
+            
+            <div class="col">
                 <video width="320" height="240" controls>
                     <source src="../videos/teaser-du-projet-heros-du-quotidien.mp4" type="video/mp4">
                     Your browser does not support the <code>video</code> tag.
                 </video>
+            </div>
         </div>
+    </div>
         
         
         <div id="border">
