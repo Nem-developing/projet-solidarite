@@ -19,8 +19,7 @@
         <?php
           include '../includes/header.html';
         ?>
-
-       
+        
         <! -- Caroussel (Slide Show) -->
          
         <div class="car-class">
@@ -105,72 +104,125 @@
 
         </div>
         
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        <! -- Affichage des images -->
-        <div class="card-group">
-            <div class="card">
-                <img src="./../images/personnels/Anne Sophie Nassez 1.jpg" class="card-img-top" alt="...">
-            </div>
-            <div class="card">
-                <img src="./../images/personnels/Anne Sophie Nassez.jpg" class="card-img-top" alt="...">
-            </div>
-            <div class="card">
-                <img src="./../images/personnels/Anonyme 3.jpg" class="card-img-top" alt="...">
-            </div>
-            <div class="card">
-                <img src="./../images/personnels/Benoit Roche.jpg" class="card-img-top" alt="...">
-            </div>
-            <div class="card">
-                <img src="./../images/personnels/Béatrice Vanderpotte.jpg" class="card-img-top" alt="...">
-            </div>
-        </div>
-        
-        <div class="card-group">
-            <div class="card">
-                <img src="./../images/personnels/Carine Meheust.jpg" class="card-img-top" alt="...">
-            </div>
-            <div class="card">
-                <img src="./../images/personnels/Carine Meheust.jpg" class="card-img-top" alt="...">
-            </div>
-            <div class="card">
-                <img src="./../images/personnels/Catherine Laffra.jpg" class="card-img-top" alt="...">
-            </div>
-            <div class="card">
-                <img src="./../images/personnels/Eric Baldoureaux.jpg" class="card-img-top" alt="...">
-            </div>
-            <div class="card">
-                <img src="./../images/personnels/Isabelle Oddoz 1 .jpg" class="card-img-top" alt="...">
-            </div>
-        </div>
 
-        <div class="card-group">
-            <div class="card">
-                <img src="./../images/personnels/Isabelle Oddoz.jpg" class="card-img-top" alt="...">
+            <! -- Affichage des images -->
+        
+    <div class="container fond" id="full-back">
+        <div class="row image1">
+            <div class="col">
+                    <a class="a-img-txt" href="">
+                        <img src="./../images/personnels/Anne Sophie Nassez 1.jpg" class="card-img-top" alt="...">
+                        <span class="a-txt cb"></span>
+                    </a>
             </div>
-            <div class="card">
-                <img src="./../images/personnels/José Gil.jpg" class="card-img-top" alt="...">
+        
+            <div class="col">
+                    <a class="a-img-txt" href="">
+                        <img src="./../images/personnels/Anne Sophie Nassez.jpg" class="card-img-top" alt="...">
+                        <span class="a-txt cb"></span>
+                    </a>
             </div>
-            <div class="card">
-                <img src="./../images/personnels/Justine Paganoni.jpg" class="card-img-top" alt="...">
+            
+            <div class="col">
+                    <a class="a-img-txt" href="">
+                        <img src="./../images/personnels/Anonyme 3.jpg" class="card-img-top" alt="...">
+                        <span class="a-txt cb"></span>
+                    </a>
             </div>
-            <div class="card">
-                <img src="./../images/personnels/Laure Grandviennot.jpg" class="card-img-top" alt="...">
-            </div>
-            <div class="card">
-                <img src="./../images/personnels/Lionel Colin.jpg" class="card-img-top" alt="...">
+            
+            <div class="col">
+                <a class="a-img-txt" href="">
+                    <img src="./../images/personnels/Benoit Roche.jpg" class="card-img-top" alt="...">
+                    <span class="a-txt cb"></span>
+                </a>
             </div>
         </div>
-
+        
+        
+        <div class="row image1">
+            <div class="col">
+                    <a class="a-img-txt" href="">
+                        <img src="./../images/personnels/Béatrice Vanderpotte.jpg" class="card-img-top" alt="...">
+                        <span class="a-txt cb"></span>
+                    </a>
+            </div>
+        
+            <div class="col">
+                    <a class="a-img-txt" href="">
+                        <img src="./../images/personnels/Carine Meheust.jpg" class="card-img-top" alt="...">
+                        <span class="a-txt cb"></span>
+                    </a>
+            </div>
+            
+            <div class="col">
+                    <a class="a-img-txt" href="">
+                        <img src="../images/personnels/Eric Baldoureaux.jpg" class="card-img-top" alt="...">
+                        <span class="a-txt cb"></span>
+                    </a>
+            </div>
+            
+            <div class="col">
+                <a class="a-img-txt" href="">
+                    <img src="../images/personnels/Isabelle Oddoz 1 .jpg" class="card-img-top" alt="...">
+                    <span class="a-txt cb"></span>
+                </a>
+            </div>
+        </div>
+        
+        
+        <div class="row image1">
+            <div class="col">
+                    <a class="a-img-txt" href="">
+                        <img src="../images/personnels/Isabelle Oddoz.jpg" class="card-img-top" alt="...">
+                        <span class="a-txt cb"></span>
+                    </a>
+            </div>
+        
+            <div class="col">
+                    <a class="a-img-txt" href="">
+                        <img src="../images/personnels/José Gil.jpg" class="card-img-top" alt="...">
+                        <span class="a-txt cb"></span>
+                    </a>
+            </div>
+            
+            <div class="col">
+                    <a class="a-img-txt" href="">
+                        <img src="../images/personnels/Justine Paganoni.jpg" class="card-img-top" alt="...">
+                        <span class="a-txt cb"></span>
+                    </a>
+            </div>
+            
+            <div class="col">
+                <a class="a-img-txt" href="">
+                    <img src="../images/personnels/Laure Grandviennot.jpg" class="card-img-top" alt="...">
+                    <span class="a-txt cb"></span>
+                </a>
+            </div>
+        </div>
+        
+        <div class="row image1">
+            <div class="col">
+                    <a class="a-img-txt" href="">
+                        <img src="../images/personnels/Lionel Colin.jpg" class="card-img-top" alt="...">
+                        <span class="a-txt cb"></span>
+                    </a>
+            </div>
+        
+            <div class="col">
+                <a class="a-img-txt" href="">
+                    <img src="../images/personnels/Loïc Mayolle.jpg" class="card-img-top" alt="...">
+                    <span class="a-txt cb"></span>
+                </a>
+            </div>
+            
+            <div class="col">
+                <a class="a-img-txt" href="">
+                    <img src="../images/personnels/Madame Seymandi.jpg" class="card-img-top" alt="...">
+                    <span class="a-txt cb"></span>
+                </a>
+            </div>
+        </div>
+    </div>
 
 
         <div id="border">
@@ -182,6 +234,6 @@
     </body>
     
     <footer>
-        <p>&copy;2020 Projet Solidarité - <a href="https://github.com/IlanMarrache">Ilan Marrache</a> - <a href="https://github.com/Neyrim83">Dorian Rastello - <a href="http://github.com/nem-developing/">Néhémie Barkia</a><p>
+        <p>&copy;2020 Projet Solidarité <a href="https://github.com/IlanMarrache" class="link">Ilan Marrache</a> - <a href="https://github.com/Neyrim83" class="link">Dorian Rastello</a> - <a href="http://github.com/nem-developing/" class="link">Néhémie Barkia</a><p>
     </footer>
 </html>
