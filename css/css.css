@@ -258,7 +258,6 @@ div#les-vids {
 }
 
 #image-accueil {
-      height: 70px;
-
-    
+    width: 100%;
+    height:auto;
 }
