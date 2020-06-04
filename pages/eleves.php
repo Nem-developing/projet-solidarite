@@ -181,6 +181,6 @@
     </body>
     
     <footer>
-        <p>&copy;2020 Projet Solidarité - <a href="https://github.com/IlanMarrache">Ilan Marrache</a> - <a href="https://github.com/Neyrim83">Dorian Rastello - <a href="http://github.com/nem-developing/">Néhémie Barkia</a><p>
+        <p>&copy;2020 Projet Solidarité <a href="https://github.com/IlanMarrache" class="link">Ilan Marrache</a> - <a href="https://github.com/Neyrim83" class="link">Dorian Rastello</a> - <a href="http://github.com/nem-developing/" class="link">Néhémie Barkia</a><p>
     </footer>
 </html>
