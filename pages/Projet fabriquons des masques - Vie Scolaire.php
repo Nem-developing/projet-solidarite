@@ -146,6 +146,7 @@
         
         
         <! -- Affichage des images -->
+        <div class="container fond" id="full-back">
         <div class="card-group">
             <div class="card">
                 <img src="./../images/Masques/encore plus de masques !!!.jpg" class="card-img-top" alt="...">
@@ -243,6 +244,8 @@
             <div class="card">
                 <img src="./../images/Masques/Projet masque Vie Scolaire 6.jpg" class="card-img-top" alt="...">
             </div>
+        </div>
+        
         </div>
 
         
