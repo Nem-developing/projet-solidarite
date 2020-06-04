@@ -1,6 +1,6 @@
 # Projet solidarité - Lycée Bonaparte
 
-Ce projet est réalisé dans le cadre d'un travail de groupe et à but non-lucratif. Ce projet fut propulsé par Mr Gil, proffesseur au Lycée Bonaparte de Toulon.
+Ce projet est réalisé dans le cadre d'un travail de groupe et à but non-lucratif. Ce projet fut propulsé par Mr Gil, professeur au Lycée Bonaparte de Toulon.
 
 
 ## Crédits : 
