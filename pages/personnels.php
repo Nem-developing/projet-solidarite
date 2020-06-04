@@ -112,28 +112,24 @@
             <div class="col">
                     <a class="a-img-txt" href="">
                         <img src="./../images/personnels/Anne Sophie Nassez 1.jpg" class="card-img-top" alt="...">
-                        <span class="a-txt cb"></span>
                     </a>
             </div>
         
             <div class="col">
                     <a class="a-img-txt" href="">
                         <img src="./../images/personnels/Anne Sophie Nassez.jpg" class="card-img-top" alt="...">
-                        <span class="a-txt cb"></span>
                     </a>
             </div>
             
             <div class="col">
                     <a class="a-img-txt" href="">
                         <img src="./../images/personnels/Anonyme 3.jpg" class="card-img-top" alt="...">
-                        <span class="a-txt cb"></span>
                     </a>
             </div>
             
             <div class="col">
                 <a class="a-img-txt" href="">
                     <img src="./../images/personnels/Benoit Roche.jpg" class="card-img-top" alt="...">
-                    <span class="a-txt cb"></span>
                 </a>
             </div>
         </div>
@@ -143,28 +139,24 @@
             <div class="col">
                     <a class="a-img-txt" href="">
                         <img src="./../images/personnels/Béatrice Vanderpotte.jpg" class="card-img-top" alt="...">
-                        <span class="a-txt cb"></span>
                     </a>
             </div>
         
             <div class="col">
                     <a class="a-img-txt" href="">
                         <img src="./../images/personnels/Carine Meheust.jpg" class="card-img-top" alt="...">
-                        <span class="a-txt cb"></span>
                     </a>
             </div>
             
             <div class="col">
                     <a class="a-img-txt" href="">
                         <img src="../images/personnels/Eric Baldoureaux.jpg" class="card-img-top" alt="...">
-                        <span class="a-txt cb"></span>
                     </a>
             </div>
             
             <div class="col">
                 <a class="a-img-txt" href="">
                     <img src="../images/personnels/Isabelle Oddoz 1 .jpg" class="card-img-top" alt="...">
-                    <span class="a-txt cb"></span>
                 </a>
             </div>
         </div>
@@ -174,28 +166,24 @@
             <div class="col">
                     <a class="a-img-txt" href="">
                         <img src="../images/personnels/Isabelle Oddoz.jpg" class="card-img-top" alt="...">
-                        <span class="a-txt cb"></span>
                     </a>
             </div>
         
             <div class="col">
                     <a class="a-img-txt" href="">
                         <img src="../images/personnels/José Gil.jpg" class="card-img-top" alt="...">
-                        <span class="a-txt cb"></span>
                     </a>
             </div>
             
             <div class="col">
                     <a class="a-img-txt" href="">
                         <img src="../images/personnels/Justine Paganoni.jpg" class="card-img-top" alt="...">
-                        <span class="a-txt cb"></span>
                     </a>
             </div>
             
             <div class="col">
                 <a class="a-img-txt" href="">
                     <img src="../images/personnels/Laure Grandviennot.jpg" class="card-img-top" alt="...">
-                    <span class="a-txt cb"></span>
                 </a>
             </div>
         </div>
@@ -204,21 +192,18 @@
             <div class="col">
                     <a class="a-img-txt" href="">
                         <img src="../images/personnels/Lionel Colin.jpg" class="card-img-top" alt="...">
-                        <span class="a-txt cb"></span>
                     </a>
             </div>
         
             <div class="col">
                 <a class="a-img-txt" href="">
                     <img src="../images/personnels/Loïc Mayolle.jpg" class="card-img-top" alt="...">
-                    <span class="a-txt cb"></span>
                 </a>
             </div>
             
             <div class="col">
                 <a class="a-img-txt" href="">
                     <img src="../images/personnels/Madame Seymandi.jpg" class="card-img-top" alt="...">
-                    <span class="a-txt cb"></span>
                 </a>
             </div>
         </div>
