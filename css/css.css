@@ -21,9 +21,8 @@ Fichier CSS pour la mise en pages utilisé dans toutes les pages.
 }
 
 img.card-img-top{      /*propriétés des images affichées dans le site*/
-    width: 100%;   
     text-align: center;
-    border: solid;
+    height: auto;
 }
 
 
