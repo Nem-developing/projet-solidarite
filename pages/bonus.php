@@ -202,10 +202,11 @@
             </div>
         
             <div class="col">
-                    <a class="a-img-txt" href="">
-                        <img src="../images/les_bonus_du_bts_communication/Vidéo BTS COM.mp4" class="card-img-top" alt="...">
-                        <span class="a-txt cb"></span>
-                    </a>
+                <video width="320" height="240" class="a-img-txt" controls>
+                    <source src="../images/les_bonus_du_bts_communication/Vidéo BTS COM.mp4" class="card-img-top" type="video/mp4">
+                    Your browser does not support the <code>video</code> tag.
+                    <span class="a-txt cb"></span>
+                </video>
             </div>
         </div>
         
