@@ -271,3 +271,10 @@ videos {
 div.card{
 background-color: rgba(28, 40, 51, 0.8) !important;
 }
+
+
+.carousel-indicators {      
+    bottom: -28px !important;
+}
+
+
