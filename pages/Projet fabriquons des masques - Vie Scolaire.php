@@ -17,7 +17,7 @@
 
         <! -- Bandeau de page dynamique. -->
         <?php
-          include '../includes/header.html';
+          include '../includes/header.php';
         ?>
 
         <! -- Fil d'Ariane -->
