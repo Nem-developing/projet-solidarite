@@ -272,3 +272,7 @@ div#les-vids {
 videos {
     background-color: rgba(28, 40, 51) !important;
 }
+
+div.card{
+background-color: rgba(28, 40, 51, 0.8) !important;
+}
