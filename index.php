@@ -23,7 +23,7 @@
         
         <! -- Affichage des images -->
 
-        <div class="container fond">
+        <div class="container fond" id="image-accueil">
             <div class="row image1">
                 <div class="col">
                     <a class="a-img-txt" href="pages/familles.php">
