@@ -20,22 +20,6 @@
           include '../includes/header.html';
         ?>
 
-                
-        
-        
-
-        <! -- Affichage des images -->
-        <div class="container fond" id="full-back">
-        <div class="card-group">
-            <div class="card">
-                <img src="./../images/les_actions_solidaires/Marc Duran - Proviseur - Participation à la course Tous unis contre le Virus 1.jpg" class="card-img-top" alt="Image de Marc Duran - Proviseur - Participation à la course Tous unis contre le Virus">
-            </div>
-            <div class="card">
-                <img src="./../images/les_actions_solidaires/Marc Duran - Proviseur - Participation à la course Tous unis contre le Virus.jpg" class="card-img-top" alt="Image de Marc Duran - Proviseur - Participation à la course Tous unis contre le Virus">
-            </div>
-        </div>
-        </div>
-
                 <! -- Affichage des images -->
         
     <div class="container fond" id="full-back">
