@@ -17,7 +17,7 @@
 
         <! -- Bandeau de page dynamique. -->
         <?php
-          include '../includes/header.php';
+          include '../includes/header.html';
         ?>
 
         
