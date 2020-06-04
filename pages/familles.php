@@ -20,14 +20,7 @@
           include '../includes/header.html';
         ?>
 
-        <! -- Fil d'Ariane -->
-        <nav aria-label="breadcrumb">
-            <ol class="breadcrumb">
-                <li class="breadcrumb-item"><a href="../index.html">Accueil</a></li>
-                <li class="breadcrumb-item active" aria-current="page">Familles</li>
-            </ol>
-        </nav>
-        
+       
         <! -- Caroussel (Slide Show) -->
          
         <div class="car-class">
