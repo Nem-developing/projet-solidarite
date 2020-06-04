@@ -220,16 +220,16 @@ h3{                                          /*    Changement colorisation des t
 }
 
 
-#full-back {
+#full-back {                               /*  Description de la taille que doit prendre la division parente aux images sur le site.   */
     width: 100%;
     height:auto;
 }
 
-videos {
+videos {                                                /*     Affichage d'une couleur de fond sur toutes les vidéos.         */
     background-color: rgba(28, 40, 51) !important;
 }
 
-div.card{
+div.card{                                                   /*   Ajout de la même couleur de fond que la div #full-back pour imiter une transparence & Centrage de toutes les images dans leur box.       */
 background-color: rgba(28, 40, 51, 0.8) !important;
     align-items: center !important;
     justify-content: center !important;
@@ -237,15 +237,15 @@ background-color: rgba(28, 40, 51, 0.8) !important;
 }
 
 
-.carousel-indicators {      
+.carousel-indicators {                                      /*     Changement de la hauteur de l'indicateur de possition d'images afin qu'il soit au-dessous des images.     */
     bottom: -28px !important;
 }
 
 
-.card:hover { /*Changement du fond quand on passe la sourie devant une division de classe "card"*/
+.card:hover {                                                   /*      Changement du fond quand on passe la sourie devant une division de classe "card"            */
 background-color: gray!important;
 }
 
-.col:hover {    /*Changement du fond quand on passe la sourie devant une division de classe "col"*/
+.col:hover {                                                    /*      Changement du fond quand on passe la sourie devant une division de classe "col"         */
     background-color: gray!important;
 }
