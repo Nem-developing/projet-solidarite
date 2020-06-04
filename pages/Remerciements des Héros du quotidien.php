@@ -104,6 +104,7 @@
         
         
         <! -- Affichage des images -->
+        <div class="container fond" id="full-back">
         <div class="card-group">
             <div class="card">
                 <img src="./../images/Remerciements/Association des Jeunes Medecins.jpg" class="card-img-top" alt="Remerciment de l'Association des Jeunes Medecins.">
@@ -154,7 +155,7 @@
                 <img src="./../images/Remerciements/Yannick Chenevard, Vice Président du Conseil Régional Provence Alpes Côte d'Azur.jpg" class="card-img-top" alt="Remerciment de Yannick Chenevard, Vice Président du Conseil Régional Provence Alpes Côte d'Azur.">
             </div>
         </div>
-        
+        </div>
         
         
         <div id="border">
