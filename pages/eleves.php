@@ -112,28 +112,24 @@
             <div class="col">
                     <a class="a-img-txt">
                         <img src="../images/eleves/Alexandre Poncelet-Urfels 1ère 7.jpg" class="card-img-top" alt="...">
-                        <span class="a-txt cb"></span>
                     </a>
             </div>
         
             <div class="col">
                     <a class="a-img-txt">
                         <img src="../images/eleves/Alizée Costagliola.jpg" class="card-img-top" alt="...">
-                        <span class="a-txt cb"></span>
                     </a>
             </div>
             
             <div class="col">
                     <a class="a-img-txt">
                         <img src="../images/eleves/Ambre 2d10.jpg" class="card-img-top" alt="...">
-                        <span class="a-txt cb"></span>
                     </a>
             </div>
             
             <div class="col">
                 <a class="a-img-txt">
                     <img src="../images/eleves/Amélie 2d10.jpg" class="card-img-top" alt="...">
-                    <span class="a-txt cb"></span>
                 </a>
             </div>
         </div>
@@ -143,28 +139,24 @@
             <div class="col">
                     <a class="a-img-txt">
                         <img src="../images/eleves/Angélina 2d10.jpg" class="card-img-top" alt="...">
-                        <span class="a-txt cb"></span>
                     </a>
             </div>
         
             <div class="col">
                     <a class="a-img-txt">
                         <img src="../images/eleves/Anissa Abbassi 2d08.jpg" class="card-img-top" alt="...">
-                        <span class="a-txt cb"></span>
                     </a>
             </div>
             
             <div class="col">
                     <a class="a-img-txt">
                         <img src="../images/eleves/Antton BTS SAM 1.jpg" class="card-img-top" alt="...">
-                        <span class="a-txt cb"></span>
                     </a>
             </div>
             
             <div class="col">
                 <a class="a-img-txt">
                     <img src="../images/eleves/Aurélie Dumas 1.jpg" class="card-img-top" alt="...">
-                    <span class="a-txt cb"></span>
                 </a>
             </div>
         </div>
@@ -174,28 +166,24 @@
             <div class="col">
                     <a class="a-img-txt">
                         <img src="../images/eleves/Aurélie Dumas 2.jpg" class="card-img-top" alt="...">
-                        <span class="a-txt cb"></span>
                     </a>
             </div>
         
             <div class="col">
                     <a class="a-img-txt">
                         <img src="../images/eleves/Aurélie Dumas.jpg" class="card-img-top" alt="...">
-                        <span class="a-txt cb"></span>
                     </a>
             </div>
             
             <div class="col">
                     <a class="a-img-txt>
                         <img src="../images/eleves/BTS SP3S2 - 2.jpg" class="card-img-top" alt="...">
-                        <span class="a-txt cb"></span>
                     </a>
             </div>
             
             <div class="col">
                 <a class="a-img-txt">
                     <img src="../images/eleves/Bocar Barbosa Diallo.jpg" class="card-img-top" alt="...">
-                    <span class="a-txt cb"></span>
                 </a>
             </div>
         </div>
@@ -204,21 +192,18 @@
             <div class="col">
                     <a class="a-img-txt>
                         <img src="../images/eleves/Camille GIORGI.jpg" class="card-img-top" alt="...">
-                        <span class="a-txt cb"></span>
                     </a>
             </div>
         
             <div class="col">
                 <a class="a-img-txt>
                     <img src="../images/eleves/Chaima Baccar SP3S2.jpg" class="card-img-top" alt="...">
-                    <span class="a-txt cb"></span>
                 </a>
             </div>
             
             <div class="col">
                 <a class="a-img-txt>
                     <img src="../images/eleves/Chaïma Souidi.jpg" class="card-img-top" alt="...">
-                    <span class="a-txt cb"></span>
                 </a>
             </div>
         </div>
