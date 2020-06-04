@@ -27,9 +27,7 @@ img .card-img-top{      /*propriétés des images affichées dans le site*/
     padding-right: 10px;    /*Ajout d'un espacement de 10px entre chaque cards (10px à droite et à gauche respectivement.)*/
 }
 
-#card:hover{      /*propriétés des images affichées dans le site quand on met notre sourie devant.*/
-    width: 200px;
-}
+
 
 
 div.card-group {
