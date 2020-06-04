@@ -35,22 +35,22 @@
             <center>
             <div class="carousel-inner">
                 <div class="carousel-item active">
-                    <img src="../images/Soutients/Jean Charles Orioli.jpg" class="d-block w-10" alt="...">
+                    <img src="../images/Soutients/Jean Charles Orioli.jpg" class="d-block w-10" alt="Image de soutien de : Jean Charles Orioli.">
                 </div>
                 <div class="carousel-item">
-                    <img src="../images/Soutients/Mathieu Bastereaud.jpg" class="d-block w-10" alt="...">
+                    <img src="../images/Soutients/Mathieu Bastereaud.jpg" class="d-block w-10" alt="Image de soutien de : Mathieu Bastereaud.">
                 </div>
                 <div class="carousel-item">
-                    <img src="../images/Soutients/Maxime Mermoz.jpg" class="d-block w-10" alt="...">
+                    <img src="../images/Soutients/Maxime Mermoz.jpg" class="d-block w-10" alt="Image de soutien de : Maxime Mermoz.">
                 </div>
                 <div class="carousel-item">
-                    <img src="../images/Soutients/Renaud Muselier - Président de la Région Sud.jpg" class="d-block w-10" alt="...">
+                    <img src="../images/Soutients/Renaud Muselier - Président de la Région Sud.jpg" class="d-block w-10" alt="Image de soutien de : Renaud Muselier - Président de la Région Sud.">
                 </div>
                 <div class="carousel-item">
-                    <img src="../images/Soutients/Steffon Armitage.jpg" class="d-block w-10" alt="...">
+                    <img src="../images/Soutients/Steffon Armitage.jpg" class="d-block w-10" alt="Image de soutien de : Steffon Armitage.">
                 </div>
                 <div class="carousel-item">
-                    <img src="../images/Soutients/Virgile Bruni.jpg" class="d-block w-10" alt="...">
+                    <img src="../images/Soutients/Virgile Bruni.jpg" class="d-block w-10" alt="Image de soutien de : Virgile Bruni.">
                 </div> 
             </div>
                 </center>
@@ -72,29 +72,29 @@
         <! -- Affichage des images -->
         <div class="card-group">
             <div class="card">
-                <img src="./../images/Soutients/Jean Charles Orioli.jpg" class="card-img-top" alt="...">
+                <img src="./../images/Soutients/Jean Charles Orioli.jpg" class="card-img-top" alt="Image de soutien de : Jean Charles Orioli.">
             </div>
             <div class="card">
-                <img src="./../images/Soutients/Mathieu Bastereaud.jpg" class="card-img-top" alt="...">
-            </div>
-        </div>
-        <div class="card-group">
-
-
-            <div class="card">
-                <img src="./../images/Soutients/Maxime Mermoz.jpg" class="card-img-top" alt="...">
-            </div>
-            <div class="card">
-                <img src="./../images/Soutients/Renaud Muselier - Président de la Région Sud.jpg" class="card-img-top" alt="...">
+                <img src="./../images/Soutients/Mathieu Bastereaud.jpg" class="card-img-top" alt="Image de soutien de : Mathieu Bastereaud.">
             </div>
         </div>
         <div class="card-group">
 
+
             <div class="card">
-                <img src="../images/Soutients/Steffon Armitage.jpg" class="card-img-top" alt="...">
+                <img src="./../images/Soutients/Maxime Mermoz.jpg" class="card-img-top" alt="Image de soutien de : Maxime Mermoz.">
             </div>
             <div class="card">
-                <img src="../images/Soutients/Virgile Bruni.jpg" class="card-img-top" alt="...">
+                <img src="./../images/Soutients/Renaud Muselier - Président de la Région Sud.jpg" class="card-img-top" alt="Image de soutien de : Renaud Muselier - Président de la Région Sud.">
+            </div>
+        </div>
+        <div class="card-group">
+
+            <div class="card">
+                <img src="../images/Soutients/Steffon Armitage.jpg" class="card-img-top" alt="Image de soutien de : Steffon Armitage.">
+            </div>
+            <div class="card">
+                <img src="../images/Soutients/Virgile Bruni.jpg" class="card-img-top" alt="Image de soutien de : Virgile Bruni.">
             </div>
         </div>
 
