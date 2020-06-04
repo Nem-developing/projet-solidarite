@@ -28,7 +28,7 @@ img .card-img-top{      /*propriétés des images affichées dans le site*/
 }
 
 #card:hover{      /*propriétés des images affichées dans le site quand on met notre sourie devant.*/
-    width: 200%;
+    width: 200px;
 }
 
 
