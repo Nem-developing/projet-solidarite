@@ -253,3 +253,9 @@ h3{
 .carousel-inner{
     size: 100px;
 }
+
+
+div#les-vids {
+    text-align: center;
+    flex-wrap: wrap;
+}
