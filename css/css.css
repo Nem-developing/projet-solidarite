@@ -270,5 +270,5 @@ div#les-vids {
 }
 
 videos {
-    background-color: rgba(28, 40, 51);
+    background-color: rgba(28, 40, 51) !important;
 }
