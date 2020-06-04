@@ -40,7 +40,6 @@
                 <li data-target="#carouselExampleIndicators" data-slide-to="11"></li>
                 <li data-target="#carouselExampleIndicators" data-slide-to="12"></li>
                 <li data-target="#carouselExampleIndicators" data-slide-to="13"></li>
-                <li data-target="#carouselExampleIndicators" data-slide-to="14"></li>
             </ol>
             <center>
             <div class="carousel-inner">
@@ -86,9 +85,6 @@
                 <div class="carousel-item">
                     <img src="../images/retours_de_presse_et_communication/Le journal du Gers - Article - page 4.jpg" class="d-block w-10" alt="...">
                 </div>
-                <div class="carousel-item">
-                    <img src="../images/retours_de_presse_et_communication/Le journal du Gers - Article - page 5.jpg" class="d-block w-10" alt="...">
-                </div> 
             </div>
                 </center>
             <a class="carousel-control-prev" href="#carouselExampleIndicators" role="button" data-slide="prev">
