@@ -105,25 +105,25 @@
     <div class="container fond" id="full-back">
         <div class="row image1">
             <div class="col">
-                    <a class="a-img-txt" href="">
+                    <a class="a-img-txt">
                         <img src="./../images/retours_de_presse_et_communication/Asso Faculté - Page Facebook des Etudiants du VAR.jpg" class="card-img-top" alt="...">
                     </a>
             </div>
         
             <div class="col">
-                    <a class="a-img-txt" href="">
+                    <a class="a-img-txt">
                         <img src="./../images/retours_de_presse_et_communication/France Bleu - Article - Page 1.jpg" class="card-img-top" alt="...">
                     </a>
             </div>
             
             <div class="col">
-                    <a class="a-img-txt" href="">
+                    <a class="a-img-txt">
                         <img src="./../images/retours_de_presse_et_communication/France Bleu - Article - Page 2.jpg" class="card-img-top" alt="...">
                     </a>
             </div>
             
             <div class="col">
-                <a class="a-img-txt" href="">
+                <a class="a-img-txt">
                     <img src="./../images/retours_de_presse_et_communication/France Bleu - Article - Page 3.jpg" class="card-img-top" alt="...">
                 </a>
             </div>
@@ -132,19 +132,19 @@
         
         <div class="row image1">
             <div class="col">
-                    <a class="a-img-txt" href="">
+                    <a class="a-img-txt">
                         <img src="./../images/retours_de_presse_et_communication/France Bleu - Article - Page 4.jpg" class="card-img-top" alt="...">
                     </a>
             </div>
         
             <div class="col">
-                    <a class="a-img-txt" href="">
+                    <a class="a-img-txt">
                         <img src="./../images/retours_de_presse_et_communication/Huber Falco.jpg" class="card-img-top" alt="...">
                     </a>
             </div>
             
             <div class="col">
-                    <a class="a-img-txt" href="">
+                    <a class="a-img-txt">
                         <img src="./../images/retours_de_presse_et_communication/Hubert Falco - Maire de Toulon - Président de TPM.jpg" class="card-img-top" alt="...">
                     </a>
             </div>
@@ -160,25 +160,25 @@
         
         <div class="row image1">
             <div class="col">
-                    <a class="a-img-txt" href="">
+                    <a class="a-img-txt">
                         <img src="./../images/retours_de_presse_et_communication/La Provence - article page 1.jpg" class="card-img-top" alt="...">
                     </a>
             </div>
         
             <div class="col">
-                    <a class="a-img-txt" href="">
+                    <a class="a-img-txt">
                         <img src="./../images/retours_de_presse_et_communication/La Provence - article page 2.jpg" class="card-img-top" alt="...">
                     </a>
             </div>
             
             <div class="col">
-                    <a class="a-img-txt" href="">
+                    <a class="a-img-txt">
                         <img src="./../images/retours_de_presse_et_communication/Le journal du Gers - Article - page 1.jpg" class="card-img-top" alt="...">
                     </a>
             </div>
             
             <div class="col">
-                <a class="a-img-txt" href="">
+                <a class="a-img-txt">
                     <img src="./../images/retours_de_presse_et_communication/Le journal du Gers - Article - page 2.jpg" class="card-img-top" alt="...">
                 </a>
             </div>
@@ -186,13 +186,13 @@
         
         <div class="row image1">
             <div class="col">
-                    <a class="a-img-txt" href="">
+                    <a class="a-img-txt">
                         <img src="./../images/retours_de_presse_et_communication/Le journal du Gers - Article - page 3.jpg" class="card-img-top" alt="...">
                     </a>
             </div>
         
             <div class="col">
-                <a class="a-img-txt" href="">
+                <a class="a-img-txt">
                         <img src="./../images/retours_de_presse_et_communication/Le journal du Gers - Article - page 4.jpg" class="card-img-top" alt="...">
                     </a>
             </div>
