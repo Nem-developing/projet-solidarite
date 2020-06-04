@@ -60,12 +60,6 @@ footer p {                                      /*    Modification du paragraphe
     background-color: black;
 }
 
-#border {
-    margin-bottom: 20px;
-}
-
-
-
 .carousel-indicators li {                       /*     Changement de la couleur de l'indicateur de possition d'images sur le carousel (Suite à la problématique d'invisibilité de celui-ci lors de l'affichage d'images blanches) */
     border: 2px dotted;
     border: black;
@@ -73,7 +67,7 @@ footer p {                                      /*    Modification du paragraphe
 }
 
 
-#menuprincipal {
+#menuprincipal {                                /*      Colorination de la barre de navigation (ou menu principal)    */
     background: #BDBDBD !important;
     background-position: top;
     padding: 15px;
