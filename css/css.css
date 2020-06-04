@@ -30,35 +30,34 @@ img .card-img-top{      /*propriétés des images affichées dans le site*/
 
 
 
-div.card-group {
+div.card-group {   /*    Centre toutes les images dans leur box rèspective      */
     align-content: center;
 }
 
-footer {
-    display: flex; /* Ce conteneur est "flexible" */
-    justify-content: center; /* Les éléments portés sont centrés à l'horizontal */
-    align-items: center; /* Les éléments portés sont centrés à la verticale */
-    position: fixed; /* Le conteneur est fixé en fonction de ses coordonnées (à 0px du bas) */
-    bottom: 0px; /* Bas */
-    height: 35px; /* Hauteur */
-    width: 100%; /* Le pied de page occupe toute la largeur */ 
-    background-color:#2d2d2d; /* Couleur de fond */
-    color: #bbb; /* Couleur du texte */
-    text-align:center; /* Texte centré */
+footer {                                       /*    Ajout du pied de page (Créé par M. Gil)    */
+    display: flex; 
+    justify-content: center;
+    align-items: center; 
+    position: fixed; 
+    bottom: 0px; 
+    height: 35px;
+    width: 100%; 
+    background-color:#2d2d2d;
+    color: #bbb; 
+    text-align:center; 
 }
 
-footer p {
-    font-size: large; /* Le texte est grossi en L */
+footer p {                                      /*    Modification du paragraphe du pied de page (Créé par M. Gil)    */
+    font-size: large; 
     margin-top: 20px;
 }
-.carousel-control-prev-icon{
-    background-color: black;
 
-}
-.carousel-control-next-icon {
-    
+.carousel-control-prev-icon{                    /*    Changement de la couleur de fond du bouton précédent du caroussel (Suite à la problématique d'invisibilité de celui-ci lors de l'affichage d'images blanches)  */
     background-color: black;
-    
+}
+
+.carousel-control-next-icon {                   /*     Changement de la couleur de fond du bouton suivant du carousel (Suite à la problématique d'invisibilité de celui-ci lors de l'affichage d'images blanches) */
+    background-color: black;
 }
 
 #border {
@@ -67,22 +66,12 @@ footer p {
 
 
 
-.carousel-indicators li {
+.carousel-indicators li {                       /*     Changement de la couleur de l'indicateur de possition d'images sur le carousel (Suite à la problématique d'invisibilité de celui-ci lors de l'affichage d'images blanches) */
     border: 2px dotted;
     border: black;
     background-color: black;
 }
 
-#sous-titre {
-    text-align: center;
-    color: white;
-    background-color: #112;
-    margin-bottom: 0px !important;
-    font-size: 35px;
-    border: 1rem solid;
-    border-color: #112;
-    text-decoration: underline;
-}
 
 #menuprincipal {
     background: #BDBDBD !important;
