@@ -118,6 +118,7 @@
         
         
         <! -- Affichage des images -->
+        <div class="container fond" id="full-back">
         <div class="card-group">
             <div class="card">
                 <img src="./../images/familles/Allan Pontarelli.jpg" class="card-img-top" alt="...">
@@ -171,7 +172,7 @@
                 <img src="./../images/familles/Famille Oddoz.jpg" class="card-img-top" alt="...">
             </div>
         </div>
-
+        </div>
 
 
         <div id="border">
