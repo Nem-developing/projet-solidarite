@@ -37,28 +37,28 @@
             <center>
             <div class="carousel-inner">
                 <div class="carousel-item active">
-                    <img src="../images/Poesies/Alizée Costagliola.jpg" class="d-block w-10" alt="...">
+                    <img src="../images/Poesies/Alizée Costagliola.jpg" class="d-block w-10" alt="Réalisation poétique">
                 </div>
                 <div class="carousel-item">
-                    <img src="../images/Poesies/Esméralda Laifa.jpg" class="d-block w-10" alt="...">
+                    <img src="../images/Poesies/Esméralda Laifa.jpg" class="d-block w-10" alt="Réalisation poétique">
                 </div>
                 <div class="carousel-item">
-                    <img src="../images/Poesies/Famille Baccialone - Poème.jpg" class="d-block w-10" alt="...">
+                    <img src="../images/Poesies/Famille Baccialone - Poème.jpg" class="d-block w-10" alt="Réalisation poétique">
                 </div>
                 <div class="carousel-item">
-                    <img src="../images/Poesies/Karim Turki.jpg" class="d-block w-10" alt="...">
+                    <img src="../images/Poesies/Karim Turki.jpg" class="d-block w-10" alt="Réalisation poétique">
                 </div>
                 <div class="carousel-item">
-                    <img src="../images/Poesies/Leila Nini, maman de Chahine Nini 2d08.jpg" class="d-block w-10" alt="...">
+                    <img src="../images/Poesies/Leila Nini, maman de Chahine Nini 2d08.jpg" class="d-block w-10" alt="Réalisation poétique">
                 </div>
                 <div class="carousel-item">
-                    <img src="../images/Poesies/Lou-Anne Merlen 2d08.jpg" class="d-block w-10" alt="...">
+                    <img src="../images/Poesies/Lou-Anne Merlen 2d08.jpg" class="d-block w-10" alt="Réalisation poétique">
                 </div>
                 <div class="carousel-item">
-                    <img src="../images/Poesies/Léa Debade - poème 1ère 10.jpg" class="d-block w-10" alt="...">
+                    <img src="../images/Poesies/Léa Debade - poème 1ère 10.jpg" class="d-block w-10" alt="Réalisation poétique">
                 </div>
                 <div class="carousel-item">
-                    <img src="../images/Poesies/Manon.jpg" class="d-block w-10" alt="...">
+                    <img src="../images/Poesies/Manon.jpg" class="d-block w-10" alt="Réalisation poétique">
                 </div>
            
 
@@ -92,31 +92,31 @@
         <div class="container fond" id="full-back">
         <div class="card-group">
             <div class="card">
-                <img src="./../images/Poesies/Alizée Costagliola.jpg" class="card-img-top" alt="...">
+                <img src="./../images/Poesies/Alizée Costagliola.jpg" class="card-img-top" alt="Réalisation poétique">
             </div>
             <div class="card">
-                <img src="./../images/Poesies/Esméralda Laifa.jpg" class="card-img-top" alt="...">
+                <img src="./../images/Poesies/Esméralda Laifa.jpg" class="card-img-top" alt="Réalisation poétique">
             </div>
             <div class="card">
-                <img src="./../images/Poesies/Famille Baccialone - Poème.jpg" class="card-img-top" alt="...">
+                <img src="./../images/Poesies/Famille Baccialone - Poème.jpg" class="card-img-top" alt="Réalisation poétique">
             </div>
             <div class="card">
-                <img src="./../images/Poesies/Karim Turki.jpg" class="card-img-top" alt="...">
+                <img src="./../images/Poesies/Karim Turki.jpg" class="card-img-top" alt="Réalisation poétique">
             </div>
         </div>
         
         <div class="card-group">
             <div class="card">
-                <img src="./../images/Poesies/Leila Nini, maman de Chahine Nini 2d08.jpg" class="card-img-top" alt="...">
+                <img src="./../images/Poesies/Leila Nini, maman de Chahine Nini 2d08.jpg" class="card-img-top" alt="Réalisation poétique">
             </div>
             <div class="card">
-                <img src="./../images/Poesies/Lou-Anne Merlen 2d08.jpg" class="card-img-top" alt="...">
+                <img src="./../images/Poesies/Lou-Anne Merlen 2d08.jpg" class="card-img-top" alt="Réalisation poétique">
             </div>
             <div class="card">
-                <img src="./../images/Poesies/Léa Debade - poème 1ère 10.jpg" class="card-img-top" alt="...">
+                <img src="./../images/Poesies/Léa Debade - poème 1ère 10.jpg" class="card-img-top" alt="Réalisation poétique">
             </div>
             <div class="card">
-                <img src="./../images/Poesies/Manon.jpg" class="card-img-top" alt="...">
+                <img src="./../images/Poesies/Manon.jpg" class="card-img-top" alt="Réalisation poétique">
             </div>
         </div>
         </div>
