@@ -25,13 +25,13 @@
     <div class="container fond" id="full-back">
         <div class="row image1">
             <div class="col">
-                    <a class="a-img-txt" href="">
+                    <a class="a-img-txt">
                         <img src="./../images/les_actions_solidaires/Marc Duran - Proviseur - Participation à la course Tous unis contre le Virus 1.jpg" class="card-img-top" alt="Action de Marc Duran - Proviseur - Participation à la course Tous unis contre le Virus">
                     </a>
             </div>
         
             <div class="col">
-                <a class="a-img-txt" href="">
+                <a class="a-img-txt">
                     <img src="./../images/les_actions_solidaires/Marc Duran - Proviseur - Participation à la course Tous unis contre le Virus.jpg" class="card-img-top" alt="Action de Marc Duran - Proviseur - Participation à la course Tous unis contre le Virus">
                 </a>
             </div>
