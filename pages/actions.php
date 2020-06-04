@@ -21,34 +21,7 @@
         ?>
 
                 
-        <! -- Caroussel (Slide Show) -->
-         
-        <div class="car-class">
-        <div id="carouselExampleIndicators" class="carousel slide" data-ride="carousel">
-            <ol class="carousel-indicators">
-                <li data-target="#carouselExampleIndicators" data-slide-to="0" class="active"></li>
-                <li data-target="#carouselExampleIndicators" data-slide-to="1"></li>
-            </ol>
-            <center>
-            <div class="carousel-inner">
-                <div class="carousel-item active">
-                    <img src="../images/les_actions_solidaires/Marc Duran - Proviseur - Participation à la course Tous unis contre le Virus 1.jpg" class="d-block w-10" alt="...">
-                </div>
-                <div class="carousel-item">
-                    <img src="../images/les_actions_solidaires/Marc Duran - Proviseur - Participation à la course Tous unis contre le Virus.jpg" class="d-block w-10" alt="...">
-            </div>
-                </center>
-            <a class="carousel-control-prev" href="#carouselExampleIndicators" role="button" data-slide="prev">
-                <span class="carousel-control-prev-icon" aria-hidden="true"></span>
-                <span class="sr-only">Précédent</span>
-            </a>
-            <a class="carousel-control-next" href="#carouselExampleIndicators" role="button" data-slide="next">
-                <span class="carousel-control-next-icon" aria-hidden="true"></span>
-                <span class="sr-only">Suivant</span>
-            </a>
-        </div>
-
-        </div>
+        
         
 
         <! -- Affichage des images -->
