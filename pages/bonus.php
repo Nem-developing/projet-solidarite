@@ -100,7 +100,7 @@
         
                 <! -- Affichage des images -->
         
-    <div class="container fond bonus" id="full-back">
+    <div class="container fond" id="full-back">
         <div class="row image1">
             <div class="col">
                     <a class="a-img-txt" href="">
