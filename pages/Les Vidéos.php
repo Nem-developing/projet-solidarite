@@ -30,7 +30,7 @@
         
         
         <! -- Affichage des vidéos -->
-        <div>
+        <div id="les-vids">
                 <video width="320" height="240" controls>
                     <source src="../videos/Amandine Bedouet-Gaillard.mp4" type="video/mp4">
                     Your browser does not support the <code>video</code> tag.
