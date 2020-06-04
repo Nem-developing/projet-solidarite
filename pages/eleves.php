@@ -116,6 +116,7 @@
         
         
         <! -- Affichage des images -->
+        <div class="container fond" id="full-back">
         <div class="card-group">
             <div class="card">
                 <img src="./../images/eleves/Alexandre Poncelet-Urfels 1ère 7.jpg" class="card-img-top" alt="...">
@@ -165,9 +166,7 @@
             <div class="card">
                 <img src="./../images/eleves/Camille GIORGI.jpg" class="card-img-top" alt="...">
             </div>
-            <div class="card">
-                <img src="./../images/eleves/Camille GIORGI.jpg" class="card-img-top" alt="...">
-            </div>
+        </div>
         </div>
         
 
