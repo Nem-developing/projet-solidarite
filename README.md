@@ -6,6 +6,6 @@ Ce projet est réalisé dans le cadre d'un travail de groupe et à but non-lucra
 
 Crédits : 
 
-# Ilan Marrache
-# Dorian Rastello
-# Néhémie Barkia
+> Ilan Marrache
+> Dorian Rastello
+> Néhémie Barkia
