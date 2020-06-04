@@ -46,46 +46,46 @@
             <center>
             <div class="carousel-inner">
                 <div class="carousel-item active">
-                    <img src="../images/Remerciements/Association des Jeunes Medecins.jpg" class="d-block w-10" alt="...">
+                    <img src="../images/Remerciements/Association des Jeunes Medecins.jpg" class="d-block w-10" alt="Remerciment de Association des Jeunes Medecins.">
                 </div>
                 <div class="carousel-item">
-                    <img src="../images/Remerciements/CHI Toulon - La Seyne.jpg" class="d-block w-10" alt="...">
+                    <img src="../images/Remerciements/CHI Toulon - La Seyne.jpg" class="d-block w-10" alt="Remerciment du CHI Toulon - La Seyne.">
                 </div>
                 <div class="carousel-item">
-                    <img src="../images/Remerciements/CHU Dijon - Bourgogne.jpg" class="d-block w-10" alt="...">
+                    <img src="../images/Remerciements/CHU Dijon - Bourgogne.jpg" class="d-block w-10" alt="Remerciment du CHU Dijon - Bourgogne.">
                 </div>
                 <div class="carousel-item">
-                    <img src="../images/Remerciements/Dr Vincent Carret - Urgences Toulon.jpg" class="d-block w-10" alt="...">
+                    <img src="../images/Remerciements/Dr Vincent Carret - Urgences Toulon.jpg" class="d-block w-10" alt="Remerciment du Dr Vincent Carret - Urgences Toulon.">
                 </div>
                 <div class="carousel-item">
-                    <img src="../images/Remerciements/Pompiers.jpg" class="d-block w-10" alt="...">
+                    <img src="../images/Remerciements/Pompiers.jpg" class="d-block w-10" alt="Remerciment Pompiers. ">
                 </div>
                 <div class="carousel-item">
-                    <img src="../images/Remerciements/Remerciements de Renaud Muselier - Président de la Région Provence Alpes Côte d'Azur.jpg" class="d-block w-10" alt="...">
+                    <img src="../images/Remerciements/Remerciements de Renaud Muselier - Président de la Région Provence Alpes Côte d'Azur.jpg" class="d-block w-10" alt="Remerciements de Renaud Muselier - Président de la Région Provence Alpes Côte d'Azur.">
                 </div>
                 <div class="carousel-item">
-                    <img src="../images/Remerciements/Remerciements de Renaud Muselier - Réponse de Marc Duran Proviseur du Lycée Bonaparte.jpg" class="d-block w-10" alt="...">
+                    <img src="../images/Remerciements/Remerciements de Renaud Muselier - Réponse de Marc Duran Proviseur du Lycée Bonaparte.jpg" class="d-block w-10" alt="Remerciements de Renaud Muselier - Réponse de Marc Duran Proviseur du Lycée Bonaparte.">
                 </div>
                 <div class="carousel-item">
-                    <img src="../images/Remerciements/Retours 1.jpg" class="d-block w-10" alt="...">
+                    <img src="../images/Remerciements/Retour 1.jpg" class="d-block w-10" alt="Remerciment.">
                 </div>
                 <div class="carousel-item">
-                    <img src="../images/Remerciements/Retours 2.jpg" class="d-block w-10" alt="...">
+                    <img src="../images/Remerciements/Retour 2.jpg" class="d-block w-10" alt="Remerciment.">
                 </div>
                 <div class="carousel-item">
-                    <img src="../images/Remerciements/Retours 3.jpg" class="d-block w-10" alt="...">
+                    <img src="../images/Remerciements/Retour 3.jpg" class="d-block w-10" alt="Remerciment.">
                 </div>
                 <div class="carousel-item">
-                    <img src="../images/Remerciements/Retours 4.jpg" class="d-block w-10" alt="...">
+                    <img src="../images/Remerciements/Retour 4.jpg" class="d-block w-10" alt="Remerciment.">
                 </div>
                 <div class="carousel-item">
-                    <img src="../images/Remerciements/Retours 5.jpg" class="d-block w-10" alt="...">
+                    <img src="../images/Remerciements/Retour 5.jpg" class="d-block w-10" alt="Remerciment.">
                 </div>
                 <div class="carousel-item">
-                    <img src="../images/Remerciements/Réanimation des Urgences - Hôpital - La Timone - Marseille.jpg" class="d-block w-10" alt="...">
+                    <img src="../images/Remerciements/Réanimation des Urgences - Hôpital - La Timone - Marseille.jpg" class="d-block w-10" alt="Remerciment du service Réanimation des Urgences - Hôpital - La Timone - Marseille">
                 </div>
                 <div class="carousel-item">
-                    <img src="../images/Remerciements/Yannick Chenevard, Vice Président du Conseil Régional Provence Alpes Côte d'Azur.jpg" class="d-block w-10" alt="...">
+                    <img src="../images/Remerciements/Yannick Chenevard, Vice Président du Conseil Régional Provence Alpes Côte d'Azur.jpg" class="d-block w-10" alt="Remerciment de Yannick Chenevard, Vice Président du Conseil Régional Provence Alpes Côte d'Azur.">
                 </div>
             </div>
                 </center>
@@ -106,52 +106,52 @@
         <! -- Affichage des images -->
         <div class="card-group">
             <div class="card">
-                <img src="./../images/Remerciements/Association des Jeunes Medecins.jpg" class="card-img-top" alt="...">
+                <img src="./../images/Remerciements/Association des Jeunes Medecins.jpg" class="card-img-top" alt="Remerciment de l'Association des Jeunes Medecins.">
             </div>
             <div class="card">
-                <img src="./../images/Remerciements/CHI Toulon - La Seyne.jpg" class="card-img-top" alt="...">
+                <img src="./../images/Remerciements/CHI Toulon - La Seyne.jpg" class="card-img-top" alt="Remerciment du CHI Toulon - La Seyne.">
             </div>
             <div class="card">
-                <img src="./../images/Remerciements/CHU Dijon - Bourgogne.jpg" class="card-img-top" alt="...">
+                <img src="./../images/Remerciements/CHU Dijon - Bourgogne.jpg" class="card-img-top" alt="Remerciment du CHU Dijon - Bourgogne.">
             </div>
             <div class="card">
-                <img src="./../images/Remerciements/Dr Vincent Carret - Urgences Toulon.jpg" class="card-img-top" alt="...">
+                <img src="./../images/Remerciements/Dr Vincent Carret - Urgences Toulon.jpg" class="card-img-top" alt="Remerciment du Dr Vincent Carret - Urgences Toulon.">
             </div>
             <div class="card">
-                <img src="./../images/Remerciements/Pompiers.jpg" class="card-img-top" alt="...">
-            </div>
-        </div>
-        
-        <div class="card-group">
-            <div class="card">
-                <img src="./../images/Remerciements/Remerciements de Renaud Muselier - Président de la Région Provence Alpes Côte d'Azur.jpg" class="card-img-top" alt="...">
-            </div>
-            <div class="card">
-                <img src="./../images/Remerciements/Remerciements de Renaud Muselier - Réponse de Marc Duran Proviseur du Lycée Bonaparte.jpg" class="card-img-top" alt="...">
-            </div>
-            <div class="card">
-                <img src="./../images/Remerciements/Retours 1.jpg" class="card-img-top" alt="...">
-            </div>
-            <div class="card">
-                <img src="./../images/Remerciements/Retours 2.jpg" class="card-img-top" alt="...">
-            </div>
-            <div class="card">
-                <img src="./../images/Remerciements/Retours 3.jpg" class="card-img-top" alt="...">
+                <img src="./../images/Remerciements/Pompiers.jpg" class="card-img-top" alt="Remerciment des Pompier">
             </div>
         </div>
         
         <div class="card-group">
             <div class="card">
-                <img src="./../images/Remerciements/Retours 4.jpg" class="card-img-top" alt="...">
+                <img src="./../images/Remerciements/Remerciements de Renaud Muselier - Président de la Région Provence Alpes Côte d'Azur.jpg" class="card-img-top" alt="Remerciements de Renaud Muselier - Président de la Région Provence Alpes Côte d'Azur.">
             </div>
             <div class="card">
-                <img src="./../images/Remerciements/Retours 5.jpg" class="card-img-top" alt="...">
+                <img src="./../images/Remerciements/Remerciements de Renaud Muselier - Réponse de Marc Duran Proviseur du Lycée Bonaparte.jpg" class="card-img-top" alt="Remerciements de Renaud Muselier - Réponse de Marc Duran Proviseur du Lycée Bonaparte.">
             </div>
             <div class="card">
-                <img src="./../images/Remerciements/Réanimation des Urgences - Hôpital - La Timone - Marseille.jpg" class="card-img-top" alt="...">
+                <img src="./../images/Remerciements/Retour 1.jpg" class="card-img-top" alt="Remerciment. ">
             </div>
             <div class="card">
-                <img src="./../images/Remerciements/Yannick Chenevard, Vice Président du Conseil Régional Provence Alpes Côte d'Azur.jpg" class="card-img-top" alt="...">
+                <img src="./../images/Remerciements/Retour 2.jpg" class="card-img-top" alt="Remerciment.">
+            </div>
+            <div class="card">
+                <img src="./../images/Remerciements/Retour 3.jpg" class="card-img-top" alt="Remerciment.">
+            </div>
+        </div>
+        
+        <div class="card-group">
+            <div class="card">
+                <img src="./../images/Remerciements/Retour 4.jpg" class="card-img-top" alt="Remerciment.">
+            </div>
+            <div class="card">
+                <img src="./../images/Remerciements/Retour 5.jpg" class="card-img-top" alt="Remerciment.">
+            </div>
+            <div class="card">
+                <img src="./../images/Remerciements/Réanimation des Urgences - Hôpital - La Timone - Marseille.jpg" class="card-img-top" alt="Remerciment du service Réanimation des Urgences - Hôpital - La Timone - Marseille.">
+            </div>
+            <div class="card">
+                <img src="./../images/Remerciements/Yannick Chenevard, Vice Président du Conseil Régional Provence Alpes Côte d'Azur.jpg" class="card-img-top" alt="Remerciment de Yannick Chenevard, Vice Président du Conseil Régional Provence Alpes Côte d'Azur.">
             </div>
         </div>
         
