@@ -26,7 +26,8 @@ img.card-img-top{      /*propriétés des images affichées dans le site*/
 }
 
 img.card-img-top:hover{      /*propriétés des images affichées avec la sourie devant.*/
-    width: 150x !important;
+    width: 500px!important;
+    height: auto!important;
 }
 
 
