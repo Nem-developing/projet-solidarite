@@ -34,16 +34,16 @@
             <center>
             <div class="carousel-inner">
                 <div class="carousel-item active">
-                    <img src="../images/le_reseau_bonaparte/Linda Crespo, AESH, Collège Marcel Pagnol.jpg" class="d-block w-10" alt="...">
+                    <img src="../images/le_reseau_bonaparte/Linda Crespo, AESH, Collège Marcel Pagnol.jpg" class="d-block w-10" alt="Réalisation solidaire du réseau Bonaparte">
                 </div>
                 <div class="carousel-item">
-                    <img src="../images/le_reseau_bonaparte/Lobna UPE2A - Claret.jpg" class="d-block w-10" alt="...">
+                    <img src="../images/le_reseau_bonaparte/Lobna UPE2A - Claret.jpg" class="d-block w-10" alt="Réalisation solidaire du réseau Bonaparte">
                 </div>
                 <div class="carousel-item">
-                    <img src="../images/le_reseau_bonaparte/Maryam HANAASHMONE UPE2A - Claret.jpg" class="d-block w-10" alt="...">
+                    <img src="../images/le_reseau_bonaparte/Maryam HANAASHMONE UPE2A - Claret.jpg" class="d-block w-10" alt="Réalisation solidaire du réseau Bonaparte">
                 </div>
                 <div class="carousel-item">
-                    <img src="../images/le_reseau_bonaparte/Rahel Yebio (UPE2A Claret).jpg" class="d-block w-10" alt="...">
+                    <img src="../images/le_reseau_bonaparte/Rahel Yebio (UPE2A Claret).jpg" class="d-block w-10" alt="Réalisation solidaire du réseau Bonaparte">
                 </div> 
             </div>
                 </center>
@@ -66,25 +66,25 @@
         <div class="row image1">
             <div class="col">
                     <a class="a-img-txt">
-                        <img src="../images/le_reseau_bonaparte/Linda Crespo, AESH, Collège Marcel Pagnol.jpg" class="card-img-top" alt="...">
+                        <img src="../images/le_reseau_bonaparte/Linda Crespo, AESH, Collège Marcel Pagnol.jpg" class="card-img-top" alt="Réalisation solidaire du réseau Bonaparte">
                     </a>
             </div>
         
             <div class="col">
                     <a class="a-img-txt">
-                        <img src="../images/le_reseau_bonaparte/Lobna UPE2A - Claret.jpg" class="card-img-top" alt="...">
+                        <img src="../images/le_reseau_bonaparte/Lobna UPE2A - Claret.jpg" class="card-img-top" alt="Réalisation solidaire du réseau Bonaparte">
                     </a>
             </div>
             
             <div class="col">
                     <a class="a-img-txt">
-                        <img src="../images/le_reseau_bonaparte/Maryam HANAASHMONE UPE2A - Claret.jpg" class="card-img-top" alt="...">
+                        <img src="../images/le_reseau_bonaparte/Maryam HANAASHMONE UPE2A - Claret.jpg" class="card-img-top" alt="Réalisation solidaire du réseau Bonaparte">
                     </a>
             </div>
             
             <div class="col">
                 <a class="a-img-txt">
-                    <img src="../images/le_reseau_bonaparte/Rahel Yebio (UPE2A Claret).jpg" class="card-img-top" alt="...">
+                    <img src="../images/le_reseau_bonaparte/Rahel Yebio (UPE2A Claret).jpg" class="card-img-top" alt="Réalisation solidaire du réseau Bonaparte">
                 </a>
             </div>
         </div>
